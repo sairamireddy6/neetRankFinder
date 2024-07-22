@@ -1,0 +1,756 @@
+{
+    "draw": 3,
+    "recordsTotal": null,
+    "recordsFiltered": null,
+    "data": [
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "ANANTAPUR",
+        "CENT_NAME": "SSBN DEGREE COLLEGE",
+        "CENTNO": "121201"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "ANANTAPUR",
+        "CENT_NAME": "SKU COLLEGE OF ENGINEERING",
+        "CENTNO": "121202"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "ANANTAPUR",
+        "CENT_NAME": "KSN DEGREE COLLEGE FOR WOMEN {A}",
+        "CENTNO": "121203"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "ANANTAPUR",
+        "CENT_NAME": "GOVT JR COLLEGE FOR BOYS NEWTOWN",
+        "CENTNO": "121204"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "BHIMAVARAM",
+        "CENT_NAME": "BHARATIYA VIDYA BHAVAN''S",
+        "CENTNO": "121301"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "CHIRALA",
+        "CENT_NAME": "ST. ANNS. ENGINEERING COLLEGE",
+        "CENTNO": "121401"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "CHITTOOR",
+        "CENT_NAME": "B V REDDY SR SEC SCHOOL",
+        "CENTNO": "121501"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "CHITTOOR",
+        "CENT_NAME": "BRUNDAVAN ENGLISH MEDIUM SCHOOL",
+        "CENTNO": "121502"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "CHITTOOR",
+        "CENT_NAME": "P E S PUBLIC SCHOOL",
+        "CENTNO": "121503"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "ELURU",
+        "CENT_NAME": "SIR C R REDDY AUTONOMOUS DEGREE COLLEGE",
+        "CENTNO": "121601"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "ELURU",
+        "CENT_NAME": "SIR C R REDDY POLYTECHNIC COLLEGE",
+        "CENTNO": "121602"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "ELURU",
+        "CENT_NAME": "ADITYA DEGREE COLLEGE, ELURU",
+        "CENTNO": "121603"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "GOOTY",
+        "CENT_NAME": "AP MODEL SCHOOL AND JR COLLEGE GOOTY",
+        "CENTNO": "121701"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "GUDUR",
+        "CENT_NAME": "SRI CHAITANYA ENGLISH MEDIUM SCHOOL",
+        "CENTNO": "121801"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "GUNTUR",
+        "CENT_NAME": "LITTLE FLOWER ENGLISH MEDIUM SCHOOL",
+        "CENTNO": "120101"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "GUNTUR",
+        "CENT_NAME": "CHALAPATHI INSTITUTE OF TECHNOLOGY",
+        "CENTNO": "120102"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "GUNTUR",
+        "CENT_NAME": "R.V.R. & J.C. COLLEGE OF ENGINEERING",
+        "CENTNO": "120103"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "GUNTUR",
+        "CENT_NAME": "SRI VENKATESWARA BALAKUTEER",
+        "CENTNO": "120104"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "GUNTUR",
+        "CENT_NAME": "NATCO SCHOOL OF LEARNING PONNUR MANDAL GUNTUR AP",
+        "CENTNO": "120105"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "GUNTUR",
+        "CENT_NAME": "B.H.H. DEGREE COLLEGE FOR WOMEN",
+        "CENTNO": "120106"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "GUNTUR",
+        "CENT_NAME": "JAGARLAMUDI KUPPUSWAMY CHOUDARY COLLEGE",
+        "CENTNO": "120107"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "GUNTUR",
+        "CENT_NAME": "DR K L PRASAD PUBLIC SCHOOL",
+        "CENTNO": "120108"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KADAPA",
+        "CENT_NAME": "ANNAMACHARYA INSTITUTE OF TECHNOLOGY AND SCIENCES",
+        "CENTNO": "121901"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KADAPA",
+        "CENT_NAME": "BHEERAM SREEDHAR REDDY INTERNATIONAL SCHOOL",
+        "CENTNO": "121902"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KADAPA",
+        "CENT_NAME": "INTERNATIONAL DELHI PUBLIC SCHOOL",
+        "CENTNO": "121903"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KAKINADA",
+        "CENT_NAME": "ASHRAM PUBLIC SCHOOL",
+        "CENTNO": "122001"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KAKINADA",
+        "CENT_NAME": "SRI CHAITANYA TECHNO SCHOOL",
+        "CENTNO": "122002"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KAKINADA",
+        "CENT_NAME": "AKSHARA SCHOOL",
+        "CENTNO": "122003"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KAKINADA",
+        "CENT_NAME": "SUBHANIKETAN SCHOOL",
+        "CENTNO": "122004"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KAKINADA",
+        "CENT_NAME": "LAKSHYA INTERNATIONAL SCHOOL",
+        "CENTNO": "122005"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KAKINADA",
+        "CENT_NAME": "SARANYA CONCEPT SCHOOL",
+        "CENTNO": "122006"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KAKINADA",
+        "CENT_NAME": "GREEN FIELD SCHOOL",
+        "CENTNO": "122007"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KURNOOL",
+        "CENT_NAME": "MONTESSORI HIGH SCHOOL",
+        "CENTNO": "120201"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KURNOOL",
+        "CENT_NAME": "MONTESSORI INDUS SCHOOL",
+        "CENTNO": "120202"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KURNOOL",
+        "CENT_NAME": "ST. JOSEPHS DEGREE COLLEGE",
+        "CENTNO": "120203"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KURNOOL",
+        "CENT_NAME": "MOTHER THERESA INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH",
+        "CENTNO": "120204"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KURNOOL",
+        "CENT_NAME": "THE ATHENA SCHOOL",
+        "CENTNO": "120205"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KURNOOL",
+        "CENT_NAME": "SRI LAKSHMI (E.M.) HIGH SCHOOL",
+        "CENTNO": "120206"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "KURNOOL",
+        "CENT_NAME": "K.V.R. GOVERNMENT COLLEGE FOR WOMEN (A) KURNOOL",
+        "CENTNO": "120207"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "MACHILIPATNAM",
+        "CENT_NAME": "DMS SVH COLLEGE OF ENGINEERING",
+        "CENTNO": "120901"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "MANGALAGIRI",
+        "CENT_NAME": "NIRMALA JUNIOR COLLEGE",
+        "CENTNO": "121001"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "NANDYAL",
+        "CENT_NAME": "RAJEEV GANDHI MEMORIAL COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "CENTNO": "122101"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "NANDYAL",
+        "CENT_NAME": "RGM INTERNATIONAL SCHOOL NANDYAL KURNOOL AP",
+        "CENTNO": "122102"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "NARASARAOPET",
+        "CENT_NAME": "NARASARAOPETA INSTITUTE OF TECHNOLOGY",
+        "CENTNO": "120801"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "NARASARAOPET",
+        "CENT_NAME": "NARASARAOPETA ENGINEERING COLLEGE",
+        "CENTNO": "120802"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "NELLORE",
+        "CENT_NAME": "GEETHANJALI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+        "CENTNO": "120301"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "NELLORE",
+        "CENT_NAME": "V.R. INSTITUTE OF POST GRADUATE STUDIES",
+        "CENTNO": "120302"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "NELLORE",
+        "CENT_NAME": "RSR INTERNATIONAL SCHOOL KAVALI NELLORE AP",
+        "CENTNO": "120303"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "NELLORE",
+        "CENT_NAME": "PADMAVATHI VIDYALAYA SULLURPETA NELLORE AP",
+        "CENTNO": "120304"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "NELLORE",
+        "CENT_NAME": "AKSHARA VIDYALAYA",
+        "CENTNO": "120305"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "ONGOLE",
+        "CENT_NAME": "QIS COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "CENTNO": "122201"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "ONGOLE",
+        "CENT_NAME": "NEXTGEN INTERNATIONAL SCHOOL",
+        "CENTNO": "122202"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "PRODDATUR",
+        "CENT_NAME": "SADHANA DEGREE COLLEGE",
+        "CENTNO": "122301"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "PRODDATUR",
+        "CENT_NAME": "GOPI KRISHNA CENTRAL SCHOOL DORASANIPALLI PRODDUTUR. PIN CODE :516360",
+        "CENTNO": "122302"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "RAJAHMUNDRY",
+        "CENT_NAME": "RAJAMAHENDRI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+        "CENTNO": "122401"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "RAJAHMUNDRY",
+        "CENT_NAME": "GOVERNMENT COLLEGE AUTONOMOUS",
+        "CENTNO": "122402"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "RAJAHMUNDRY",
+        "CENT_NAME": "RAJIVGANDHI DEGREE COLLEGE",
+        "CENTNO": "122403"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "RAJAHMUNDRY",
+        "CENT_NAME": "SKVT (EM) GOVT HIGH SCHOOL",
+        "CENTNO": "122404"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "RAJAHMUNDRY",
+        "CENT_NAME": "KENDRIYA VIDYALAYA",
+        "CENTNO": "122405"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "RAJAHMUNDRY",
+        "CENT_NAME": "BHASHYAM ENGLISH MEDIUM SCHOOL",
+        "CENTNO": "122406"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "RAJAHMUNDRY",
+        "CENT_NAME": "SRI KANDUKURI RAJYALAKSHMI WOMENS COLLEGE",
+        "CENTNO": "122407"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "RAJAHMUNDRY",
+        "CENT_NAME": "OAKWOOD THE RAJAHMUNDRY SCHOOL",
+        "CENTNO": "122408"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "SRIKAKULAM",
+        "CENT_NAME": "SRI SIVANI COLLEGE OF ENGINEERING",
+        "CENTNO": "122501"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "SRIKAKULAM",
+        "CENT_NAME": "GAYATRI SCHOOL",
+        "CENTNO": "122502"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "SRIKAKULAM",
+        "CENT_NAME": "KENDRIYA VIDYALAYA SRIKAKULAM",
+        "CENTNO": "122503"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "SRIKAKULAM",
+        "CENT_NAME": "GAYATRI DEGREE & PG COLLEGE",
+        "CENTNO": "122504"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "SRIKAKULAM",
+        "CENT_NAME": "GURAJADA COLLEGE OF EDUCATION",
+        "CENTNO": "122505"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TADEPALLIGUDEM",
+        "CENT_NAME": "BHARATIYA VIDYA BHAVANS RES PUBLIC SCHOOL",
+        "CENTNO": "122701"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TANUKU",
+        "CENT_NAME": "SREE MULLAPUDI VENKATARAYA MEMORIAL POLYTECHNIC",
+        "CENTNO": "122801"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TANUKU",
+        "CENT_NAME": "SREE RAMA INSTITUTE OF MANAGEMENT ( MBA)",
+        "CENTNO": "122802"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TANUKU",
+        "CENT_NAME": "STEPPING STONES HIGH SCHOOL",
+        "CENTNO": "122803"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TENALI",
+        "CENT_NAME": "SRI VIVEKANANDA CENTRAL SCHOOL",
+        "CENTNO": "120701"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TENALI",
+        "CENT_NAME": "WESTBERRY SCHOOL",
+        "CENTNO": "120702"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TIRUPATHI",
+        "CENT_NAME": "SGS ARTS COLLEGE",
+        "CENTNO": "120401"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TIRUPATHI",
+        "CENT_NAME": "GITAM SCHOOL",
+        "CENTNO": "120402"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TIRUPATHI",
+        "CENT_NAME": "EDIFY SCHOOL",
+        "CENTNO": "120403"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TIRUPATHI",
+        "CENT_NAME": "INTERNATIONAL DELHI PUBLIC SCHOOL",
+        "CENTNO": "120404"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TIRUPATHI",
+        "CENT_NAME": "LITTE ANGLES SCHOOL",
+        "CENTNO": "120405"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TIRUPATHI",
+        "CENT_NAME": "VISWAM HIGH SCHOOL VISWAM NAGAR JEEVAKONA",
+        "CENTNO": "120406"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TIRUPATHI",
+        "CENT_NAME": "MARG CHINMAYA VIDYALAYA SR. SECONDARY SCHOOL",
+        "CENTNO": "120407"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TIRUPATHI",
+        "CENT_NAME": "SREE VIDYANIKETHAN INTERNATIONAL SCHOOL",
+        "CENTNO": "120408"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "TIRUPATHI",
+        "CENT_NAME": "SHLOKA-A BIRLA SCHOOL",
+        "CENTNO": "120409"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIJAYAWADA",
+        "CENT_NAME": "DR.KKR GOWTHAM (E.M) HIGH SCHOOL",
+        "CENTNO": "120520"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIJAYAWADA",
+        "CENT_NAME": "KCP SIDDHARTHA ADARSH RES PUB SCH VIJAYAWADA AP",
+        "CENTNO": "120521"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIJAYAWADA",
+        "CENT_NAME": "KVSR SIDDHARTHA COLLEGE OF PHARMACEUTICAL SCIENCES",
+        "CENTNO": "120522"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIJAYAWADA",
+        "CENT_NAME": "SRI DURGA MALLESWARA SIDDHARTHA MAHILA JUNIOR KALASALA",
+        "CENTNO": "120523"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIJAYAWADA",
+        "CENT_NAME": "KENDRIYA VIDYALAYA NO.1 VIJAYAWADA",
+        "CENTNO": "120524"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIJAYAWADA",
+        "CENT_NAME": "RAVINDRA BHARATHI''S SCOTSPINE SCHOOL",
+        "CENTNO": "120525"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIJAYAWADA",
+        "CENT_NAME": "SAMVIDA VIDYA PEETH",
+        "CENTNO": "120526"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIJAYAWADA",
+        "CENT_NAME": "POTTI SRIRAMULU CHALAVADI MALLIKARJUNA RAO COLLEGE OF ENGINEERING AND TECHNOLOGY",
+        "CENTNO": "120501"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIJAYAWADA",
+        "CENT_NAME": "NRI INSTITUTE OF TECHNOLOGY",
+        "CENTNO": "120502"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIJAYAWADA",
+        "CENT_NAME": "KAKARAPARTI BHAVANARAYANA COLLEGE",
+        "CENTNO": "120503"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VISAKHAPATNAM",
+        "CENT_NAME": "SRI CHAITANYA TECHNO SCHOOL",
+        "CENTNO": "120601"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VISAKHAPATNAM",
+        "CENT_NAME": "AQJ CENTRE FOR PG STUDIES",
+        "CENTNO": "120602"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VISAKHAPATNAM",
+        "CENT_NAME": "SANKETIKA VIDYA PARISHAD ENGINEERING COLLEGE",
+        "CENTNO": "120603"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VISAKHAPATNAM",
+        "CENT_NAME": "AMEYA WORLD SCHOOL",
+        "CENTNO": "120604"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VISAKHAPATNAM",
+        "CENT_NAME": "VIJAYAM SCHOOL",
+        "CENTNO": "120605"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VISAKHAPATNAM",
+        "CENT_NAME": "KENDRIYA VIDYALAYA WALTAIR",
+        "CENTNO": "120606"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VISAKHAPATNAM",
+        "CENT_NAME": "NAVY CHILDREN SCHOOL",
+        "CENTNO": "120607"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VISAKHAPATNAM",
+        "CENT_NAME": "VIGNAN STEEL CITY PUBLIC SCHOOL",
+        "CENTNO": "120608"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VISAKHAPATNAM",
+        "CENT_NAME": "VIJNANA VIHARA RES SCH GUDILOVA VIZAG AP",
+        "CENTNO": "120609"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VISAKHAPATNAM",
+        "CENT_NAME": "BABA INSTITUTE OF TECHNOLOGY AND SCIENCES",
+        "CENTNO": "120610"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIZIANAGARAM",
+        "CENT_NAME": "INSPIIRO SCHOOL",
+        "CENTNO": "122901"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIZIANAGARAM",
+        "CENT_NAME": "KENDRIYA VIDYALAYA VIZIANAGARAM",
+        "CENTNO": "122902"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIZIANAGARAM",
+        "CENT_NAME": "DR BESANT ENGLISH MEDIUM SCHOOL",
+        "CENTNO": "122903"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIZIANAGARAM",
+        "CENT_NAME": "SMT. GODAVARI DEVI SARAF HIGH SCHOOL",
+        "CENTNO": "122904"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ANDHRA PRADESH",
+        "CENT_CITY": "VIZIANAGARAM",
+        "CENT_NAME": "THE SUN SCHOOL",
+        "CENTNO": "122905"
+      }
+    ]
+  }

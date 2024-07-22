@@ -1,0 +1,560 @@
+{
+    "draw": 3,
+    "recordsTotal": null,
+    "recordsFiltered": null,
+    "data": [
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "AMBIKAPUR",
+        "CENT_NAME": "HOLYCROSS CONVENT SR. SEC. SCHOOL",
+        "CENTNO": "170401"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "AMBIKAPUR",
+        "CENT_NAME": "SHRI SAI BABA AADARSH MAHAVIDYALAYA",
+        "CENTNO": "170402"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "AMBIKAPUR",
+        "CENT_NAME": "GOVT. MULTIPURPOSE HSS",
+        "CENTNO": "170403"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "AMBIKAPUR",
+        "CENT_NAME": "ORIENTAL PUBLIC SCHOOL",
+        "CENTNO": "170404"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "AMBIKAPUR",
+        "CENT_NAME": "GOVT. GIRLS SCHOOL",
+        "CENTNO": "170405"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "AMBIKAPUR",
+        "CENT_NAME": "PM SHRI KENDRIYA VIDYALAYA",
+        "CENTNO": "170406"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "AMBIKAPUR",
+        "CENT_NAME": "URSULINE GIRLS HR.SEC.SCHOOL",
+        "CENTNO": "170407"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "AMBIKAPUR",
+        "CENT_NAME": "DASHMESH PUB. SCHOOL",
+        "CENTNO": "170408"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "AMBIKAPUR",
+        "CENT_NAME": "SHRI SAI BABA SCHOOL",
+        "CENTNO": "170409"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "AMBIKAPUR",
+        "CENT_NAME": "NEW DELHI PUBLIC SCHOOL",
+        "CENTNO": "170410"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BALOD",
+        "CENT_NAME": "GOVT.BOYS ADARSH HR.SEC.SCHOOL BALOD",
+        "CENTNO": "170501"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BALOD",
+        "CENT_NAME": "GOVT ADARSH GIRLS HR.SEC.SCHOOL BALOD",
+        "CENTNO": "170502"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BHILAI NAGAR/DURG",
+        "CENT_NAME": "SHRI SHANKARACHARYA VIDYALAYA",
+        "CENTNO": "170101"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BHILAI NAGAR/DURG",
+        "CENT_NAME": "KRISHNA PUBLIC SCHOOL",
+        "CENTNO": "170102"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BHILAI NAGAR/DURG",
+        "CENT_NAME": "KENDRIYA VIDYALAYA DURG",
+        "CENTNO": "170103"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BHILAI NAGAR/DURG",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL RISALI SECTOR BHILAI DURG CG",
+        "CENTNO": "170104"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BHILAI NAGAR/DURG",
+        "CENT_NAME": "BHILAI INSTITUTE OF TECHNOLOGY",
+        "CENTNO": "170105"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BHILAI NAGAR/DURG",
+        "CENT_NAME": "SRI SANKARA VIDYALAYA",
+        "CENTNO": "170106"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BHILAI NAGAR/DURG",
+        "CENT_NAME": "BSP SENIOR SECONDARY SCHOOL SECTOR - 7 BHILAI",
+        "CENTNO": "170107"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BHILAI NAGAR/DURG",
+        "CENT_NAME": "K D PUBLIC SCHOOL",
+        "CENTNO": "170108"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BHILAI NAGAR/DURG",
+        "CENT_NAME": "KRISHNA ENGINEERING COLLEGE",
+        "CENTNO": "170109"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BHILAI NAGAR/DURG",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL DURG",
+        "CENTNO": "170110"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BIJAPUR",
+        "CENT_NAME": "DAVMPS AWAPALLI BIJAPUR",
+        "CENTNO": "170601"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BILASPUR (CG)",
+        "CENT_NAME": "KRISHNA PUBLIC SCHOOL",
+        "CENTNO": "170201"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BILASPUR (CG)",
+        "CENT_NAME": "S.E.C.RAILWAY HIGHER SECONDARY SCHOOL (NO.-1)",
+        "CENTNO": "170202"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BILASPUR (CG)",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL BILASPUR",
+        "CENTNO": "170203"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BILASPUR (CG)",
+        "CENT_NAME": "ST XAVIERS HIGH SCHOOL",
+        "CENTNO": "170204"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BILASPUR (CG)",
+        "CENT_NAME": "MAHARISHI VIDYA MANDIR",
+        "CENTNO": "170205"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BILASPUR (CG)",
+        "CENT_NAME": "ST FRANCIS HR. SEC. SCHOOL",
+        "CENTNO": "170206"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BILASPUR (CG)",
+        "CENT_NAME": "BRILLIANT PUBLIC SCHOOL",
+        "CENTNO": "170207"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BILASPUR (CG)",
+        "CENT_NAME": "KENDRIYA VIDYALAYA BILASPUR",
+        "CENTNO": "170208"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BILASPUR (CG)",
+        "CENT_NAME": "NUVOCO PUBLIC SCHOOL",
+        "CENTNO": "170209"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "BILASPUR (CG)",
+        "CENT_NAME": "ST. VINCENT PALLOTTI SR. SEC. SCHOOL BILASPUR",
+        "CENTNO": "170210"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "DANTEWADA",
+        "CENT_NAME": "GOVT. DANTESHWARI P.G. COLLEGE, DANTEWADA (C.G.)",
+        "CENTNO": "170701"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "DANTEWADA",
+        "CENT_NAME": "SWAMI ATMANAND GOVT. UTKRISHT HINDI MEDIUM HIGHER SECONDARY SCHOOL DANTEWADA",
+        "CENTNO": "170702"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "DHAMTARI",
+        "CENT_NAME": "MENNONITE ENGLISH SR. SECONDARY SCHOOL",
+        "CENTNO": "170801"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "DHAMTARI",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL SANKARA DHAMTARI CG",
+        "CENTNO": "170802"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "JAGDALPUR",
+        "CENT_NAME": "GOVT KAKTIYA P G COLLEGE",
+        "CENTNO": "170901"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "JAGDALPUR",
+        "CENT_NAME": "GOVERNMENT MULTIPURPOSE HIGHER SECINDARY SCHOO, JAGDALPUR, BASTAR. CG",
+        "CENTNO": "170902"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "JAGDALPUR",
+        "CENT_NAME": "GOVT. MAHARANI LAXMIBAI GIRLS HIGHER SECONDARY SCHOOL NO.1",
+        "CENTNO": "170903"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "JANJGIR",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL",
+        "CENTNO": "171001"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "JANJGIR",
+        "CENT_NAME": "GURUKUL INTERNATIONAL SCHOOL",
+        "CENTNO": "171002"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "JANJGIR",
+        "CENT_NAME": "BRILLIANT PUBLIC SCHOOL",
+        "CENTNO": "171003"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "KANKER",
+        "CENT_NAME": "BHANU PRATAP DEO GOVT. P.G. COLLEGE",
+        "CENTNO": "171101"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "KANKER",
+        "CENT_NAME": "GOVT NARHAR DEV HIGHER SECONDARY SCHOOL",
+        "CENTNO": "171102"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "KANKER",
+        "CENT_NAME": "ST. MICHAEL''S HIGHER SECONDARY SCHOOL",
+        "CENTNO": "171103"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "KONDAGAON",
+        "CENT_NAME": "SWAMI AATMANAND UTKRIST HINDI MADHYAM VIDHYALAYA TEHSILPARA KONDAGAON",
+        "CENTNO": "171201"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "KONDAGAON",
+        "CENT_NAME": "GOVT BOYS HIG SEC. SCHOOL KONDAGAON C. G.",
+        "CENTNO": "171202"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "KORBA",
+        "CENT_NAME": "NEW ERA PROGRESSIVE SCHOOL",
+        "CENTNO": "171301"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "KORBA",
+        "CENT_NAME": "ST XAVIERS PUBLIC SCHOOL",
+        "CENTNO": "171302"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "KORBA",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL",
+        "CENTNO": "171303"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "MAHASAMUND",
+        "CENT_NAME": "WEIDNER MEMORIAL SR SEC SCHOOL",
+        "CENTNO": "171401"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "MAHASAMUND",
+        "CENT_NAME": "GOOD SHEPHERD SCHOOL",
+        "CENTNO": "171402"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "MAHASAMUND",
+        "CENT_NAME": "MAHARSHI VIDYA MANDIR",
+        "CENTNO": "171403"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "MAHASAMUND",
+        "CENT_NAME": "RIVERDALE WORLD SCHOOL",
+        "CENTNO": "171404"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "MANENDRAGARH",
+        "CENT_NAME": "DELHI WORLD PUBLIC SCHOOL MDGR",
+        "CENTNO": "171901"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "NARAYANPUR",
+        "CENT_NAME": "GOVT. BOYS HIGHER SECONDARY SCHOOL NARAYANPUR",
+        "CENTNO": "171501"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIGARH",
+        "CENT_NAME": "O P JINDAL SCHOOL KHARSIA ROAD",
+        "CENTNO": "171601"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIGARH",
+        "CENT_NAME": "KENDRIYA VIDYALAYA RAIGARH",
+        "CENTNO": "171602"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIGARH",
+        "CENT_NAME": "ST. TERESSA''S CONVENT SCHOOL",
+        "CENTNO": "171603"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIGARH",
+        "CENT_NAME": "GOVT HIGHER SECONDARY SCHOOL JUTEMILL RAIGARH",
+        "CENTNO": "171604"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIGARH",
+        "CENT_NAME": "GOVT HIGHER SECONDARY SCHOOL",
+        "CENTNO": "171605"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIPUR",
+        "CENT_NAME": "KRISHNA PUBLIC SCHOOL",
+        "CENTNO": "170301"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIPUR",
+        "CENT_NAME": "HOLY HEARTS EDUCATIONAL ACADEMY",
+        "CENTNO": "170302"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIPUR",
+        "CENT_NAME": "MAHARISHI VIDYA MANDIR",
+        "CENTNO": "170303"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIPUR",
+        "CENT_NAME": "HOLY CROSS SENIOR SECONDARY SCHOOL KAPA",
+        "CENTNO": "170304"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIPUR",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL RAIPUR",
+        "CENTNO": "170305"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIPUR",
+        "CENT_NAME": "HOLY CROSS SENIOR SECONDARY SCHOOL",
+        "CENTNO": "170306"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIPUR",
+        "CENT_NAME": "ST. JOSEPH`S SENIOR SECONDARY SCHOOL",
+        "CENTNO": "170307"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIPUR",
+        "CENT_NAME": "RYAN INTERNATIONAL SCHOOL",
+        "CENTNO": "170308"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIPUR",
+        "CENT_NAME": "BRIGHTON INTL SCH NR VIDHAN SABHA NARDAHA RAIPUR",
+        "CENTNO": "170309"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAIPUR",
+        "CENT_NAME": "SHRI GUJRATI ENG MED HR SEC SCHOOL RAIPUR CG",
+        "CENTNO": "170310"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAJNANDGAON",
+        "CENT_NAME": "WEIDNER MEMORIAL SENIOR SECONDARY SCHOOL, RAJNANDGAON",
+        "CENTNO": "171701"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAJNANDGAON",
+        "CENT_NAME": "NEERAJ PUBLIC SCHOOL, RAJNANDGAON",
+        "CENTNO": "171702"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAJNANDGAON",
+        "CENT_NAME": "NEERAJ BAJPAYEE INTERNATIONAL SCHOOL",
+        "CENTNO": "171703"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAJNANDGAON",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL, RAJNANDGAON",
+        "CENTNO": "171704"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAJNANDGAON",
+        "CENT_NAME": "WESLEYAN ENGLISH MEDIUM HIGHER SEC. SCHOOL, RAJNANDGAON",
+        "CENTNO": "171705"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "RAJNANDGAON",
+        "CENT_NAME": "YUGANTAR PUBLIC SCHOOL, RAJNANDGAON",
+        "CENTNO": "171706"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "CHHATTISGARH",
+        "CENT_CITY": "SUKMA",
+        "CENT_NAME": "GOVERNMENT BOYS HIGHER SECONDARY SCHOOL, SUKMA",
+        "CENTNO": "171801"
+      }
+    ]
+  }

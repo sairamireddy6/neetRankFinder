@@ -1,0 +1,931 @@
+{
+    "draw": 3,
+    "recordsTotal": null,
+    "recordsFiltered": null,
+    "data": [
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "ANGUL",
+        "CENT_NAME": "NARAYANI INSTITUTE OF ENGINEERING & TECHNOLOGY ANGUL",
+        "CENTNO": "360101"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "ANGUL",
+        "CENT_NAME": "ADARSHA INTERNATIONAL SCHOOL, ANGUL",
+        "CENTNO": "360102"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "ANGUL",
+        "CENT_NAME": "KENDRIYA VIDYALAYA ANGUL",
+        "CENTNO": "360103"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "ANGUL",
+        "CENT_NAME": "ROTARY PUBLIC SCHOOL ANGUL",
+        "CENTNO": "360104"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALANGIR",
+        "CENT_NAME": "GOVT. POLYTECHNIC BALANGIR",
+        "CENTNO": "360801"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALANGIR",
+        "CENT_NAME": "JITM HSS",
+        "CENTNO": "360802"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALANGIR",
+        "CENT_NAME": "CENTURIAN PUBLIC SCHOOL BOLANGIR",
+        "CENTNO": "360803"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALANGIR",
+        "CENT_NAME": "IDM PUBLIC SCHOOL BOLANGIR",
+        "CENTNO": "360804"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALANGIR",
+        "CENT_NAME": "BALANGIR PUBLIC SCHOOL BOLANGIR",
+        "CENTNO": "360805"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALANGIR",
+        "CENT_NAME": "ODISHA ADARSHA VIDYALAYA PATHARCHEPA, BALANGIR",
+        "CENTNO": "360806"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALANGIR",
+        "CENT_NAME": "KENDRIYA VIDYALAYA NO. 2 BOLANGIR",
+        "CENTNO": "360807"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALASORE (BALESWAR)",
+        "CENT_NAME": "DAV PUBLIC SCHOOL",
+        "CENTNO": "360205"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALASORE (BALESWAR)",
+        "CENT_NAME": "ST. XAVIER HIGH SCHOOL",
+        "CENTNO": "360206"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALASORE (BALESWAR)",
+        "CENT_NAME": "MAHARISHI VIDYA MANDIR",
+        "CENTNO": "360207"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALASORE (BALESWAR)",
+        "CENT_NAME": "PMSHRI KV1 BALASORE",
+        "CENTNO": "360208"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALASORE (BALESWAR)",
+        "CENT_NAME": "SIDDHIVINAYAK PUBLIC SCHOOL",
+        "CENTNO": "360201"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALASORE (BALESWAR)",
+        "CENT_NAME": "RAJA KISHORE CHANDRA ACADEMY OF TECHNOLOGY",
+        "CENTNO": "360202"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALASORE (BALESWAR)",
+        "CENT_NAME": "MODERN PUBLIC SCHOOL",
+        "CENTNO": "360203"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BALASORE (BALESWAR)",
+        "CENT_NAME": "ST. THOMAS CONVENT SCHOOL",
+        "CENTNO": "360204"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARAGARH",
+        "CENT_NAME": "ROTARY PUBLIC SCHOOL",
+        "CENTNO": "361701"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARAGARH",
+        "CENT_NAME": "VIKASH HIGHER SECONDARY SCHOOL",
+        "CENTNO": "361702"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARAGARH",
+        "CENT_NAME": "KENDRIYA VIDYALAYA BARGARH",
+        "CENTNO": "361703"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARAGARH",
+        "CENT_NAME": "VIDYASAGAR ACADEMY ENGLISH MEDIUM SCHOOL",
+        "CENTNO": "361704"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARAGARH",
+        "CENT_NAME": "VIKASH RESIDENTIAL SCHOOL,BARGARH",
+        "CENTNO": "361705"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARIPADA/MAYURBANJ",
+        "CENT_NAME": "MAYURBHANJ SCHOOL OF ENGINEERING",
+        "CENTNO": "361801"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARIPADA/MAYURBANJ",
+        "CENT_NAME": "KENDRIYA VIDYALAYA LAXMIPOSI",
+        "CENTNO": "361802"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARIPADA/MAYURBANJ",
+        "CENT_NAME": "S.V.S SENIOR SECONDARY SCHOOL",
+        "CENTNO": "361803"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARIPADA/MAYURBANJ",
+        "CENT_NAME": "SRI SATHYA SAI VIDYA VIHAR BARIPADA",
+        "CENTNO": "361804"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARIPADA/MAYURBANJ",
+        "CENT_NAME": "ODISHA ADARSHA VIDYALAYA  RANIBHOL",
+        "CENTNO": "361805"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARIPADA/MAYURBANJ",
+        "CENT_NAME": "ST.  XAVIER?S  HIGH  SCHOOL INDUPAHI",
+        "CENTNO": "361806"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BARIPADA/MAYURBANJ",
+        "CENT_NAME": "KENDRIYA VIDYALAYA MURGABADI",
+        "CENTNO": "361807"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BERHAMPUR/GANJAM",
+        "CENT_NAME": "GANDHI ACADEMY OF TECHNOLOGY AND ENGINEERING",
+        "CENTNO": "360301"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BERHAMPUR/GANJAM",
+        "CENT_NAME": "NIST UNIVERSITY",
+        "CENTNO": "360302"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BERHAMPUR/GANJAM",
+        "CENT_NAME": "PARALA MAHARAJA ENGINEERING COLLEGE",
+        "CENTNO": "360303"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BERHAMPUR/GANJAM",
+        "CENT_NAME": "SANJAY MEMORIAL INSTITUTE OF TECHNOLOGY",
+        "CENTNO": "360304"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BERHAMPUR/GANJAM",
+        "CENT_NAME": "V V GIRI GOVT SECONDARY TRAINING SCHOOL FOR WOMEN",
+        "CENTNO": "360305"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BERHAMPUR/GANJAM",
+        "CENT_NAME": "VIGNAN INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+        "CENTNO": "360306"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BERHAMPUR/GANJAM",
+        "CENT_NAME": "GYAN VIKASH ENGLISH MEDIUM SCHOOL",
+        "CENTNO": "360307"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BERHAMPUR/GANJAM",
+        "CENT_NAME": "SANJAY MEMORIAL INSTITUTE OF TECHNOLOGY SMIT",
+        "CENTNO": "360308"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BERHAMPUR/GANJAM",
+        "CENT_NAME": "D A V PUBLIC SCHOOL BERHAMPUR",
+        "CENTNO": "360309"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BERHAMPUR/GANJAM",
+        "CENT_NAME": "K C PUBLIC SCHOOL GIRI RD BERHAMPUR OD",
+        "CENTNO": "360310"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHADRAK",
+        "CENT_NAME": "BHADRAK ENGINEERING SCHOOL AND TECHNOLOGY",
+        "CENTNO": "361901"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHADRAK",
+        "CENT_NAME": "GOVERNMENT POLYTECHNIC",
+        "CENTNO": "361902"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHADRAK",
+        "CENT_NAME": "GOVT. GIRLS HIGH SCHOOL",
+        "CENTNO": "361903"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHADRAK",
+        "CENT_NAME": "VINAYAK RESIDENTIAL HIGHER SECONDARY SCHOOL",
+        "CENTNO": "361904"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHADRAK",
+        "CENT_NAME": "NRI INTERNATIONAL SCHOOL",
+        "CENTNO": "361905"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHADRAK",
+        "CENT_NAME": "BARAPADA SCHOOL OF ENGINEERING & TECHNOLOGY",
+        "CENTNO": "361906"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHADRAK",
+        "CENT_NAME": "SBD INTERNATIONAL SCHOOL",
+        "CENTNO": "361907"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHAWANIPATNA / KALAHANDI",
+        "CENT_NAME": "GOVT WOMEN''S COLLEGE BHAWANIPATNA",
+        "CENTNO": "360901"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHAWANIPATNA / KALAHANDI",
+        "CENT_NAME": "GOVT ENGG. COLLEGE BHAWANIPATNA",
+        "CENTNO": "360902"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHAWANIPATNA / KALAHANDI",
+        "CENT_NAME": "KV BHAWANIPATNA",
+        "CENTNO": "360903"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHUBANESWAR",
+        "CENT_NAME": "GITA BHUBANESWAR",
+        "CENTNO": "360401"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHUBANESWAR",
+        "CENT_NAME": "C.V. RAMAN GLOBAL UNIVERSITY",
+        "CENTNO": "360402"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHUBANESWAR",
+        "CENT_NAME": "GANDHI INSTITUTE FOR EDUCATION AND TECHNOLOGY (GIET) KHURDA BHUBANESWAR",
+        "CENTNO": "360403"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHUBANESWAR",
+        "CENT_NAME": "GANDHI INSTITUTE OF EXCELLENT TECHNOCRATS",
+        "CENTNO": "360404"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHUBANESWAR",
+        "CENT_NAME": "GUIDANCE ENGLISH MEDIUM SCHOOL",
+        "CENTNO": "360405"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHUBANESWAR",
+        "CENT_NAME": "JUPITER PUBLIC SCHOOL",
+        "CENTNO": "360406"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHUBANESWAR",
+        "CENT_NAME": "DAV PUBLIC SCHOOL UNIT-VIII",
+        "CENTNO": "360407"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHUBANESWAR",
+        "CENT_NAME": "DAV PUBLIC SCHOOL",
+        "CENTNO": "360408"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHUBANESWAR",
+        "CENT_NAME": "SILICON UNIVERSITY",
+        "CENTNO": "360409"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "BHUBANESWAR",
+        "CENT_NAME": "KENDRIYA VIDYALAYA NO. 1 BHUBANESHWAR",
+        "CENTNO": "360410"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "CUTTACK",
+        "CENT_NAME": "DAV PUBLIC SCHOOL",
+        "CENTNO": "360501"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "CUTTACK",
+        "CENT_NAME": "AJAY BINAY INSTITUTE OF TECHNOLOGY",
+        "CENTNO": "360502"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "CUTTACK",
+        "CENT_NAME": "LRDAV PUBLIC SCHOOL",
+        "CENTNO": "360503"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "CUTTACK",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL KALINGA",
+        "CENTNO": "360504"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "CUTTACK",
+        "CENT_NAME": "SRI SRI UNIVERSITY",
+        "CENTNO": "360505"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "CUTTACK",
+        "CENT_NAME": "KRISHNAMURTY WORLD SCHOOL JARIPADA CUTTACK OD",
+        "CENTNO": "360506"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "CUTTACK",
+        "CENT_NAME": "ST XAVIERS HIGH SCH BARABATI STADIUM CUTTACK OD",
+        "CENTNO": "360507"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "CUTTACK",
+        "CENT_NAME": "SARASWATI SHISHU VIDYA MANDIR COLLEGE SQUARE - 753003 (NEAR BOMBAY HOTEL)",
+        "CENTNO": "360508"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "CUTTACK",
+        "CENT_NAME": "DR DEV MOHANTY PUBLIC SCH KHANDASAHI CUTTACK OD",
+        "CENTNO": "360509"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "CUTTACK",
+        "CENT_NAME": "KENDRIYA VIDYALAYA NO. 1 CUTTACK",
+        "CENTNO": "360510"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "DHENKANAL",
+        "CENT_NAME": "SYNERGY INSTITUTE OF ENGINEERING & TECHNOLOGY",
+        "CENTNO": "362001"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "DHENKANAL",
+        "CENT_NAME": "ST. XAVIERS HIGH SCHOOL",
+        "CENTNO": "362002"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "DHENKANAL",
+        "CENT_NAME": "KENDRIYA VIDYALAYA DHENKANAL",
+        "CENTNO": "362003"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "DHENKANAL",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL",
+        "CENTNO": "362004"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JAGATSINGHPUR",
+        "CENT_NAME": "SUDDHANANDA VIDYALAYA MADHAPUR",
+        "CENTNO": "362103"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JAGATSINGHPUR",
+        "CENT_NAME": "DAV PUBLIC SCHOOL",
+        "CENTNO": "362104"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JAGATSINGHPUR",
+        "CENT_NAME": "DAV PUBLIC SCHOOL",
+        "CENTNO": "362101"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JAGATSINGHPUR",
+        "CENT_NAME": "DAV PUBLIC SCHOOL",
+        "CENTNO": "362102"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JAJPUR",
+        "CENT_NAME": "BARUNESWAR MOHAVIDYALAYA",
+        "CENTNO": "362201"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JAJPUR",
+        "CENT_NAME": "KALINGA NAGAR POLYTECHNIC",
+        "CENTNO": "362202"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JAJPUR",
+        "CENT_NAME": "SBD INTERNATIONAL SCHOOL",
+        "CENTNO": "362203"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JAJPUR",
+        "CENT_NAME": "ST. XAVIERS HIGH SCHOOL",
+        "CENTNO": "362204"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JAJPUR",
+        "CENT_NAME": "DEV INTERNATION SCHOOL",
+        "CENTNO": "362205"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JAJPUR",
+        "CENT_NAME": "GURUKUL PUBLIC SCHOOL",
+        "CENTNO": "362206"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JEYPORE (ODISHA)",
+        "CENT_NAME": "GOVERNMENT POLYTECHNIC KORAPUT",
+        "CENTNO": "361101"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JEYPORE (ODISHA)",
+        "CENT_NAME": "MODERN ENGLISH SCHOOL JEYPORE",
+        "CENTNO": "361102"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JEYPORE (ODISHA)",
+        "CENT_NAME": "VYOMAYANA SAMASTHA VIDYALAYA",
+        "CENTNO": "361103"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JHARSUGUDA",
+        "CENT_NAME": "GHANSHYAM HEMLATA VIDYA MANDIR",
+        "CENTNO": "362301"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JHARSUGUDA",
+        "CENT_NAME": "KENDRIYA VIDYALAYA JHARSUGUDA RLY COLONY JHARSUGUDA OD",
+        "CENTNO": "362302"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "JHARSUGUDA",
+        "CENT_NAME": "DAV PUBLIC SCHOOL JHARSUGUDA",
+        "CENTNO": "362303"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "KENDRAPARA",
+        "CENT_NAME": "TULASI WOMENS COLLEGE",
+        "CENTNO": "362401"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "KENDRAPARA",
+        "CENT_NAME": "ODISHA ADARSH  VIDYALAYA",
+        "CENTNO": "362402"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "KENDRAPARA",
+        "CENT_NAME": "ZENITH  INTERNATIONAL SCHOOL",
+        "CENTNO": "362403"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "KENDRAPARA",
+        "CENT_NAME": "PM SHRI  JAWAHAR NAVODAYA  VIDYALAYA",
+        "CENTNO": "362404"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "KENDRAPARA",
+        "CENT_NAME": "PM SHRI  KV KENDRAPARA",
+        "CENTNO": "362405"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "KENDUJHAR (KEONJHAR)",
+        "CENT_NAME": "ST XAVIER SCHOOL KEONJHAR",
+        "CENTNO": "361001"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "KENDUJHAR (KEONJHAR)",
+        "CENT_NAME": "RABINDRA VIDYA NIKETAN",
+        "CENTNO": "361002"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "KENDUJHAR (KEONJHAR)",
+        "CENT_NAME": "GOVERNMENT COLLEGE OF ENGINEERING",
+        "CENTNO": "361003"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "KENDUJHAR (KEONJHAR)",
+        "CENT_NAME": "EKALAVYA MODEL RES SCHOOL KEONJHAR",
+        "CENTNO": "361004"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "MALKANGIRI",
+        "CENT_NAME": "MALKANGIRI COLLEGE",
+        "CENTNO": "361201"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "MALKANGIRI",
+        "CENT_NAME": "MODEL DEGREE COLLEGE",
+        "CENTNO": "361202"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "MALKANGIRI",
+        "CENT_NAME": "KENDRIYA VIDYALAYA MALKANGIRI",
+        "CENTNO": "361203"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "NAWARANGPUR",
+        "CENT_NAME": "BAPUJI PUBLIC SCHOOL",
+        "CENTNO": "362501"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "NAWARANGPUR",
+        "CENT_NAME": "ODISHA ADARSH VIDYALAYA",
+        "CENTNO": "362502"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "NAWARANGPUR",
+        "CENT_NAME": "PM SHRI KENDRIYA VIDYALAYA",
+        "CENTNO": "362503"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "NAWARANGPUR",
+        "CENT_NAME": "PARENTS PRIDE PUBLIC SCHOOL",
+        "CENTNO": "362504"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "NAWARANGPUR",
+        "CENT_NAME": "UNIQUE PUBLIC SCHOOL",
+        "CENTNO": "362505"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "NUAPADA",
+        "CENT_NAME": "MAHAMAYA DEGREE COLLEGE",
+        "CENTNO": "362601"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "NUAPADA",
+        "CENT_NAME": "MAHAMAYA INSTITUTE OF MEDICAL & TECHNICAL SCIENCE, NUAPADA",
+        "CENTNO": "362602"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "NUAPADA",
+        "CENT_NAME": " GYANJYOTI K.R VIDYALAYA MAULIBHATA GADTOR NUAPADA-766105",
+        "CENTNO": "362603"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "PARALAKHEMUNDI (GAJAPATI)",
+        "CENT_NAME": "CENTURION UNIVERSITY",
+        "CENTNO": "361301"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "PHULBANI (KANDHAMAL)",
+        "CENT_NAME": "GOVT. AUTONOMOUS COLLEGE PHULBANI",
+        "CENTNO": "361401"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "PHULBANI (KANDHAMAL)",
+        "CENT_NAME": "SM GOVT. WOMENS COLLEGE PHULBANI",
+        "CENTNO": "361402"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "PURI",
+        "CENT_NAME": "ST. XAVIER?S HIGH SCHOOL",
+        "CENTNO": "361601"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "PURI",
+        "CENT_NAME": "MOTHERS PUBLIC SCHOOL BRAHAMAGIRI STATAPADA ROAD, GORUAL, PURI-752002",
+        "CENTNO": "361602"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "PURI",
+        "CENT_NAME": "PRASHANTI INTERNATIONAL SCHOOL",
+        "CENTNO": "361603"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "RAIRANGPUR",
+        "CENT_NAME": "KENDRIYA VIDYALAYA MAHULDIHA RAIRANGPUR",
+        "CENTNO": "362701"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "RAYAGADA",
+        "CENT_NAME": "ST.XAVIERS HIGH SCHOOL",
+        "CENTNO": "361501"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "RAYAGADA",
+        "CENT_NAME": "CENTURION PUBLIC SCHOOL",
+        "CENTNO": "361502"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "ROURKELA",
+        "CENT_NAME": "DEEPIKA ENGLISH MEDIUM SCHOOL",
+        "CENTNO": "360601"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "ROURKELA",
+        "CENT_NAME": "DAV SCHOOL",
+        "CENTNO": "360602"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "ROURKELA",
+        "CENT_NAME": "GURU NANAK PUBLIC SCHOOL",
+        "CENTNO": "360603"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "ROURKELA",
+        "CENT_NAME": "GOVERNMENT AUTONOMOUS COLLEGE",
+        "CENTNO": "360604"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "ROURKELA",
+        "CENT_NAME": "KANAK MANJARI INTERNATIONAL SCHOOL",
+        "CENTNO": "360605"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "SAMBALPUR",
+        "CENT_NAME": "GURU NANAK PUBLIC SCHOOL",
+        "CENTNO": "360702"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "SAMBALPUR",
+        "CENT_NAME": "VIKASH THE CONCEPT SCHOOL",
+        "CENTNO": "360703"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "SAMBALPUR",
+        "CENT_NAME": "ST LUKES SCHOOL OPP RAM VIHAR BURLA SAMBALPUR OD",
+        "CENTNO": "360704"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "SAMBALPUR",
+        "CENT_NAME": "PM SHRI KENDRIYA VIDYALAYA, NO-1, SAMBALPUR",
+        "CENTNO": "360705"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "SAMBALPUR",
+        "CENT_NAME": "INDIAN PUBLIC SCHOOL",
+        "CENTNO": "360706"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "SAMBALPUR",
+        "CENT_NAME": "DAV PUBLIC SCHOOL",
+        "CENTNO": "360707"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "ODISHA",
+        "CENT_CITY": "SAMBALPUR",
+        "CENT_NAME": "SEVEN HILLS RESIDENTIAL SCHOOL",
+        "CENTNO": "360701"
+      }
+    ]
+  }

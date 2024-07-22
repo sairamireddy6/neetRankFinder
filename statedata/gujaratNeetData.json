@@ -1,0 +1,1050 @@
+{
+    "draw": 3,
+    "recordsTotal": null,
+    "recordsFiltered": null,
+    "data": [
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AHMEDABAD",
+        "CENT_NAME": "SHAYONA INSTITUTE OF BUSINESS MANAGEMENT",
+        "CENTNO": "220101"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AHMEDABAD",
+        "CENT_NAME": "ASIA ENGLISH SCHOOL",
+        "CENTNO": "220102"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AHMEDABAD",
+        "CENT_NAME": "PODAR INTERNATIONAL SCHOOL CHANDKHEDA AHMEDABAD",
+        "CENTNO": "220103"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AHMEDABAD",
+        "CENT_NAME": "SILVER OAK COLLEGE OF ENGINEERING & TECHNOLOGY",
+        "CENTNO": "220104"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AHMEDABAD",
+        "CENT_NAME": "SHANTI ASIATIC SCHOOL",
+        "CENTNO": "220105"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AHMEDABAD",
+        "CENT_NAME": "SHREE NARAYANA CENTRAL SCHOOL",
+        "CENTNO": "220106"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AHMEDABAD",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL,  AHMEDABAD",
+        "CENTNO": "220107"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AHMEDABAD",
+        "CENT_NAME": "L D COLLEGE OF ENGINEERING",
+        "CENTNO": "220108"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AHMEDABAD",
+        "CENT_NAME": "UDGAM SCHOOL FOR CHILDREN",
+        "CENTNO": "220109"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AHMEDABAD",
+        "CENT_NAME": "GRADUATE SCHOOL OF MANAGEMENT STUDIES GTU",
+        "CENTNO": "220110"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AMRELI",
+        "CENT_NAME": "OXFORD SCHOOL OF SCIENCE",
+        "CENTNO": "221301"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AMRELI",
+        "CENT_NAME": "SHREE M. L. KAKADIYA MCA MAHILA COLLEGE",
+        "CENTNO": "221302"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "AMRELI",
+        "CENT_NAME": "PODAR INTERNATIONAL SCHOOL",
+        "CENTNO": "221303"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "ANAND",
+        "CENT_NAME": "CHAROTAR ENGLISH MEDIUM SCHOOL",
+        "CENTNO": "220201"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "ANAND",
+        "CENT_NAME": "ZEN SCHOOL",
+        "CENTNO": "220202"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "ANAND",
+        "CENT_NAME": "SARDAR PATEL UNIVERSITY",
+        "CENTNO": "220203"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "ANAND",
+        "CENT_NAME": "PODAR INTERNATIONAL SCHOOL 100 FT ROAD ANAND GT",
+        "CENTNO": "220204"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "ANAND",
+        "CENT_NAME": "VASANTIBEN AND CHANDUBHAI PATEL ENGLISH SCHOOL",
+        "CENTNO": "220205"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "ANAND",
+        "CENT_NAME": "ANANDALAYA NDD BOARD CAMPUS ANAND KHEDA GUJARAT",
+        "CENTNO": "220206"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "ANAND",
+        "CENT_NAME": "SHRI I B PATEL ANGEL SR SEC SCHOOL",
+        "CENTNO": "220207"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BALASINOR",
+        "CENT_NAME": "NAV GUJARAT HIGHER SECONDARY SCHOOL",
+        "CENTNO": "223101"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BANASKANTHA",
+        "CENT_NAME": "SHRI VIVIDHLAXI VIDYAMANDIR PALANPUR",
+        "CENTNO": "221401"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BANASKANTHA",
+        "CENT_NAME": "S.K.M.HIGHSCHOOL AND D.B.W.T.HIGHER SECONDARY SCHOOL, KANODAR",
+        "CENTNO": "221402"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BANASKANTHA",
+        "CENT_NAME": "SHREE V. R. VIDHYALAY PALANPUR",
+        "CENTNO": "221403"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BANASKANTHA",
+        "CENT_NAME": "SARDAR PATEL HIGH SCHOOL, DEESA",
+        "CENTNO": "221404"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BANASKANTHA",
+        "CENT_NAME": "ANGELS SCHOOL DEESA",
+        "CENTNO": "221405"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BANASKANTHA",
+        "CENT_NAME": "SMT. M. M. MEHTA ENGLISH SCHOOL",
+        "CENTNO": "221406"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BANASKANTHA",
+        "CENT_NAME": "SMT. R.K.PATEL H.S.KANYA VIDHYALAYA LAXMIPURA PALANPUR",
+        "CENTNO": "221407"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BANASKANTHA",
+        "CENT_NAME": "SHRI R.B.PATEL & SMT.M.K.SUNSARA H.S.SCHOOL (SANSKAR VIDHYALAY)",
+        "CENTNO": "221408"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BANASKANTHA",
+        "CENT_NAME": "SHREE C B GANDHI NOOTAN HIGHSCHOOL",
+        "CENTNO": "221409"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BANASKANTHA",
+        "CENT_NAME": "MATUSHREE S B V CHAVDA SARASWATI HIGH SCHOOL PALANPUR",
+        "CENTNO": "221410"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHARUCH",
+        "CENT_NAME": "AMICUS INTERNATIONAL SCHOOL",
+        "CENTNO": "221501"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHARUCH",
+        "CENT_NAME": "SHRI S''AD VIDYA MANDAL INSTITUTE OF TECHNOLOGY",
+        "CENTNO": "221502"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHARUCH",
+        "CENT_NAME": "K V ONGC COLONY ANKLESHWAR",
+        "CENTNO": "221503"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHARUCH",
+        "CENT_NAME": "PUBLIC SCHOOL KHAROD",
+        "CENTNO": "221504"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHARUCH",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL",
+        "CENTNO": "221505"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHAVNAGAR",
+        "CENT_NAME": "GYANMANJARI INSTITUTE OF TECHNOLOGY BHAVNAGAR",
+        "CENTNO": "220301"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHAVNAGAR",
+        "CENT_NAME": "SHREE GYANMANJARI SECONDARY AND HIGHER SECONDARY SCHOOL",
+        "CENTNO": "220302"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHAVNAGAR",
+        "CENT_NAME": "SHREE VIDHYADHISH SEC.& H.SCE SCHOOL",
+        "CENTNO": "220303"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHAVNAGAR",
+        "CENT_NAME": "ST XAVIERS CMI PUBLIC SCHOOL",
+        "CENTNO": "220304"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHAVNAGAR",
+        "CENT_NAME": "ST MARY ENGLISH SCHOOL",
+        "CENTNO": "220305"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHAVNAGAR",
+        "CENT_NAME": "THE KPES ENGLISH CHOOL",
+        "CENTNO": "220306"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHAVNAGAR",
+        "CENT_NAME": "AMARJYOTI SARASWATI INTERNATIONAL SCHOOL KALVIBID",
+        "CENTNO": "220307"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHAVNAGAR",
+        "CENT_NAME": "GYANMANJARI VIDHYAPITH",
+        "CENTNO": "220308"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHAVNAGAR",
+        "CENT_NAME": "AMARJYOTI SARSVATI VIDHYALAY",
+        "CENTNO": "220309"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHAVNAGAR",
+        "CENT_NAME": "SILVER BELLS PUBLIC SCHOOL",
+        "CENTNO": "220310"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHUJ",
+        "CENT_NAME": "MATRU SHREE R D VARSANI KUMAR VIDYALAYA",
+        "CENTNO": "221201"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHUJ",
+        "CENT_NAME": "CHANAKYA ACADEMY",
+        "CENTNO": "221202"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHUJ",
+        "CENT_NAME": "MAA ASHAPURA GUJARATI SEC & HR. SEC. SCHOOL",
+        "CENTNO": "221203"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BHUJ",
+        "CENT_NAME": "DOON PUBLIC SCHOOL",
+        "CENTNO": "221204"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "BOTAD",
+        "CENT_NAME": "SMT.R.A.KALATHIYA SEC & HIGH SEC SCHOOL BOTAD",
+        "CENTNO": "221601"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "DAHOD",
+        "CENT_NAME": "LITTLE FLOWER SCHOOL",
+        "CENTNO": "221701"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "DAHOD",
+        "CENT_NAME": "RATNADEEP INTERNATIONAL SCHOOL",
+        "CENTNO": "221702"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "DAHOD",
+        "CENT_NAME": "KENDRIYA VIDYALAYA DAHOD",
+        "CENTNO": "221703"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "DAHOD",
+        "CENT_NAME": "JAWAHAR NAVODAYA VIDYALAYA",
+        "CENTNO": "221704"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "DAHOD",
+        "CENT_NAME": "ST.MARYS SCHOOL",
+        "CENTNO": "221705"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "GANDHIDHAM",
+        "CENT_NAME": "AMARCHAND SINGHVI INTERNATIONAL SCHOOL",
+        "CENTNO": "221101"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "GANDHIDHAM",
+        "CENT_NAME": "PODAR INTERNATIONAL SCHOOL GANDHIDHAM",
+        "CENTNO": "221102"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "GANDHIDHAM",
+        "CENT_NAME": "TOLANI MOTWANE INSTITUTE OF MANAGEMENT STUDIES",
+        "CENTNO": "221103"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "GANDHINAGAR",
+        "CENT_NAME": "SHANKERSINH VAGHELA BAPU INSTITUTE OF TECHNOLOGY",
+        "CENTNO": "220401"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "GANDHINAGAR",
+        "CENT_NAME": "LDRP INSTITUTE OF TECHNOLOGY AND RESEARCH",
+        "CENTNO": "220402"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "GANDHINAGAR",
+        "CENT_NAME": "PANDIT DEENDAYAL PETROLEUM UNIVERSITY",
+        "CENTNO": "220403"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "GANDHINAGAR",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL GANDHINAGAR",
+        "CENTNO": "220404"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "GODHRA",
+        "CENT_NAME": "JAY JALARAM INTERNATIONAL SCHOOL",
+        "CENTNO": "220501"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "GODHRA",
+        "CENT_NAME": "JAY JALARAM SCHOOL",
+        "CENTNO": "220502"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "HIMATNAGAR",
+        "CENT_NAME": "GROW MORE FOUNDATIONS GROUP OF INSTITUTIONS",
+        "CENTNO": "221801"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "HIMATNAGAR",
+        "CENT_NAME": "PODAR INTERNATIONAL SCHOOL, HIMMATNAGAR",
+        "CENTNO": "221802"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "HIMATNAGAR",
+        "CENT_NAME": "GRIN APPLE PUBLIC SCHOOL",
+        "CENTNO": "221803"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "HIMATNAGAR",
+        "CENT_NAME": "D.L.PATEL INSTITUTE OF MANAGEMENT & TECHNOLOGY MCA COLLEGE",
+        "CENTNO": "221804"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "HIMATNAGAR",
+        "CENT_NAME": "KENDRIYA VIDYALAYA",
+        "CENTNO": "221805"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "JAMNAGAR",
+        "CENT_NAME": "NAND VIDYA NIKETAN SCHOOL",
+        "CENTNO": "221901"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "JAMNAGAR",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL",
+        "CENTNO": "221902"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "JAMNAGAR",
+        "CENT_NAME": "SHREE SATYA SAI VIDYALAYA",
+        "CENTNO": "221903"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "JAMNAGAR",
+        "CENT_NAME": "PODAR INTERNATIONAL SCHOOL",
+        "CENTNO": "221904"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "JUNAGADH",
+        "CENT_NAME": "SHRI N.P. BHALODIA HIGH SCHOOL",
+        "CENTNO": "222001"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "JUNAGADH",
+        "CENT_NAME": "NOBLE GROUP OF INSTITUTIONS",
+        "CENTNO": "222002"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "JUNAGADH",
+        "CENT_NAME": "MATRUSHREE M G KANYA VIDYA MANDIR",
+        "CENTNO": "222003"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "JUNAGADH",
+        "CENT_NAME": "KENDRIYA VIDYALAYA JUNAGADH",
+        "CENTNO": "222004"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "KADI",
+        "CENT_NAME": "N P COLLEGE OF COMPUTER STUDIES AND MANAGEMENT",
+        "CENTNO": "222101"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "KHEDA",
+        "CENT_NAME": "BHARATIYA VIDYA BHAVAN''S SMT. M.K PATEL SCHOOL",
+        "CENTNO": "222201"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "MEHSANA",
+        "CENT_NAME": "SANKALCHAND PATEL UNIVERSITY -1",
+        "CENTNO": "222301"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "MEHSANA",
+        "CENT_NAME": "SANKALCHAND PATEL UNIVERSITY-2",
+        "CENTNO": "222302"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "MEHSANA",
+        "CENT_NAME": "SRMP NOOTAN GLOBAL SCHOOL",
+        "CENTNO": "222303"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "MODASA",
+        "CENT_NAME": "SHRI K N SHAH MODASA HIGHSCHOOL",
+        "CENTNO": "222401"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "MODASA",
+        "CENT_NAME": "B-KANAE SCHOOL(CBSE)",
+        "CENTNO": "222402"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "MODASA",
+        "CENT_NAME": "SHRI J B SHAH ENGLISH MEDIUM SCHOOL",
+        "CENTNO": "222403"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "MODASA",
+        "CENT_NAME": "SHRI C G BUTALA SARVODAYA HIGH SCHOOL",
+        "CENTNO": "222404"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "NARMADA",
+        "CENT_NAME": "SHREE GATTU VIDYALAYA",
+        "CENTNO": "222501"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "NAVSARI",
+        "CENT_NAME": "SHREE SWAMINARAYAN INTERNATIONAL GUNATIT VIDYADHAM",
+        "CENTNO": "222601"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "NAVSARI",
+        "CENT_NAME": "B.S PATEL PRIMARY SCHOOL .",
+        "CENTNO": "222602"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "NAVSARI",
+        "CENT_NAME": "DIVINE INTERNATIONAL SCHOOL .",
+        "CENTNO": "222603"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "NAVSARI",
+        "CENT_NAME": "VSG INTERNATIONAL SCHOOL",
+        "CENTNO": "222604"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "NAVSARI",
+        "CENT_NAME": "SGM SHIROIYA ENGLISH SCHOOL",
+        "CENTNO": "222605"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "NAVSARI",
+        "CENT_NAME": "P.V LAKHANI ENGLISH MEDIUM SCHOOL .",
+        "CENTNO": "222606"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "NAVSARI",
+        "CENT_NAME": "PODAR INTERNATIONAL SCHOOL NAVSARI",
+        "CENTNO": "222607"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "PATAN",
+        "CENT_NAME": "SHRI & SMT. P. K. KOTAWALA ARTS COLLEGE",
+        "CENTNO": "220601"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "PATAN",
+        "CENT_NAME": "PIONEER SCHOOL OF SCIENCE",
+        "CENTNO": "220602"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "PATAN",
+        "CENT_NAME": "PPG EXPERIMENTAL HIGH SCHOOL",
+        "CENTNO": "220603"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "PATAN",
+        "CENT_NAME": "BHAGWATI INTERNATIONAL PUBLIC SCHOOL",
+        "CENTNO": "220604"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "PORBANDAR",
+        "CENT_NAME": "YAGYAVALKYA VIDYA MANDIR CBSE SCHOOL",
+        "CENTNO": "222701"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "RAJKOT",
+        "CENT_NAME": "UNIT-1 SCHOOL OF ENGINEERING R.K.UNIVERSITY",
+        "CENTNO": "220701"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "RAJKOT",
+        "CENT_NAME": "MARWADI UNIVERSITY UNIT-1",
+        "CENTNO": "220702"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "RAJKOT",
+        "CENT_NAME": "CHRIST COLLEGE RAJKOT",
+        "CENTNO": "220703"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "RAJKOT",
+        "CENT_NAME": "MARWADI UNIVERSITY UNIT-2",
+        "CENTNO": "220704"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "RAJKOT",
+        "CENT_NAME": "(UNIT-2)    SCHOOL OF ENGINEERING, R.K.UNIVERSITY",
+        "CENTNO": "220705"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "RAJKOT",
+        "CENT_NAME": "SARVODAYA SCHOOL",
+        "CENTNO": "220706"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "RAJKOT",
+        "CENT_NAME": "THE RAJKUMAR COLLEGE, RAJKOT",
+        "CENTNO": "220707"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURAT",
+        "CENT_NAME": "RMG MAHESHWARI ENGLISH SCHOOL",
+        "CENTNO": "220818"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURAT",
+        "CENT_NAME": "THE RADIANTINTERNATIONALSCHOOL",
+        "CENTNO": "220819"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURAT",
+        "CENT_NAME": "EURO SCHOOL",
+        "CENTNO": "220820"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURAT",
+        "CENT_NAME": "SANSKAR TIRTHGYANPEETHCHORYASISURAT GUJ",
+        "CENTNO": "220801"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURAT",
+        "CENT_NAME": "P P SAVANI CHAITANYA VIDYA SANKUL",
+        "CENTNO": "220802"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURAT",
+        "CENT_NAME": "SHREEGURUKRUPAVIDHYA SANKULCBSE",
+        "CENTNO": "220803"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURAT",
+        "CENT_NAME": "J B DIAMONDS &KARP IMPEXVIDYA SANKUL",
+        "CENTNO": "220804"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURAT",
+        "CENT_NAME": "AGARWAL VIDYA VIHAR",
+        "CENTNO": "220805"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURAT",
+        "CENT_NAME": "SHREEVASISHTHAVIDHYALAYA",
+        "CENTNO": "220806"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURAT",
+        "CENT_NAME": "GAJERAINTERNATIONALSCHOOL UTRANSURAT GUJ",
+        "CENTNO": "220807"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURENDRANAGAR",
+        "CENT_NAME": "SANKALP VIDHYALAY",
+        "CENTNO": "222801"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURENDRANAGAR",
+        "CENT_NAME": "NDR HIGH SCHOOL",
+        "CENTNO": "222802"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURENDRANAGAR",
+        "CENT_NAME": "SANSKRUTI SCHOOL",
+        "CENTNO": "222803"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURENDRANAGAR",
+        "CENT_NAME": "SWASTIK SCHOOL",
+        "CENTNO": "222804"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "SURENDRANAGAR",
+        "CENT_NAME": "ARMY PUBLIC SCHOOL DHRANGADHRA",
+        "CENTNO": "222805"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VADODARA",
+        "CENT_NAME": "DELHI PUBLIC SCHOOL VADODARA",
+        "CENTNO": "220901"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VADODARA",
+        "CENT_NAME": "NAVRACHANA SCHOOL SAMA",
+        "CENTNO": "220902"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VADODARA",
+        "CENT_NAME": "D R AMIN MEMORIAL SCHOOL GADAPURA BARODA GUJ",
+        "CENTNO": "220903"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VADODARA",
+        "CENT_NAME": "NEW ERA SENIOR SECONDARY SCHOOL",
+        "CENTNO": "220904"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VADODARA",
+        "CENT_NAME": "GUJARAT PUB SCH SBG CAMPUS PLOT NO1 VADODARA GUJ",
+        "CENTNO": "220905"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VADODARA",
+        "CENT_NAME": "URMI SCHOOL",
+        "CENTNO": "220906"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VADODARA",
+        "CENT_NAME": "VIDYANI VIDYALAYA",
+        "CENTNO": "220907"
+      },
+      {
+        "SrNo": 8,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VADODARA",
+        "CENT_NAME": "GUJARAT PUBLIC SCHOOL- ATLADARA",
+        "CENTNO": "220908"
+      },
+      {
+        "SrNo": 9,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VADODARA",
+        "CENT_NAME": "CYGNUS WORLD SCHOOL",
+        "CENTNO": "220909"
+      },
+      {
+        "SrNo": 10,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VADODARA",
+        "CENT_NAME": "KENDRIYA VIDYLAYA NO. I, BARODA",
+        "CENTNO": "220910"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VALSAD/VAPI",
+        "CENT_NAME": "SMT.SANDRABEN SHROFF GNYAN DHAM SCHOOL",
+        "CENTNO": "221001"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VALSAD/VAPI",
+        "CENT_NAME": "PODAR INT SCHOOL NF-08 VIA VAPI PARADI VALSAD GT",
+        "CENTNO": "221002"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VALSAD/VAPI",
+        "CENT_NAME": "SHRI L G HARIA MULTIPURPOSE SCH PARDI VALSAD GUJ",
+        "CENTNO": "221003"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VALSAD/VAPI",
+        "CENT_NAME": "R.M &V.M DESAI VIDYADHAM",
+        "CENTNO": "221004"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VALSAD/VAPI",
+        "CENT_NAME": "S S D SMT SHOBHABEN P PATEL SCHOOL VALSAD GT",
+        "CENTNO": "221005"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VALSAD/VAPI",
+        "CENT_NAME": "V A MGM AMIN & VN SAVANI SCH KILLA PARDI GUJ",
+        "CENTNO": "221006"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VALSAD/VAPI",
+        "CENT_NAME": "ST XAVIERS HIGH SCHOOL",
+        "CENTNO": "221007"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VERAVAL",
+        "CENT_NAME": "PODAR INTERNATIONAL SCHOOL",
+        "CENTNO": "222901"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VERAVAL",
+        "CENT_NAME": "SAINT MARY''S HIGHER SECONDARY SCHOOL",
+        "CENTNO": "222902"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VERAVAL",
+        "CENT_NAME": "DALMIA PUBLIC SCHOOL",
+        "CENTNO": "222903"
+      },
+      {
+        "SrNo": 1,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VYARA",
+        "CENT_NAME": "SHREE K B PATEL ENGLISH MEDIUM HIGHER SECONDARY SCHOOL",
+        "CENTNO": "223001"
+      },
+      {
+        "SrNo": 2,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VYARA",
+        "CENT_NAME": "SHREE K M GANDHI PRIMARY SCHOOL VYARA",
+        "CENTNO": "223002"
+      },
+      {
+        "SrNo": 3,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VYARA",
+        "CENT_NAME": "SHRIMATI K K KADAM KANYA VIDHYALAYA UNIT 1",
+        "CENTNO": "223003"
+      },
+      {
+        "SrNo": 4,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VYARA",
+        "CENT_NAME": "SHREE M P PATEL SECONDARY SCHOOL VYARA",
+        "CENTNO": "223004"
+      },
+      {
+        "SrNo": 5,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VYARA",
+        "CENT_NAME": "SHREE J B & S A SARVAJANIK HIGH SCHOOL VYARA UNIT 1",
+        "CENTNO": "223005"
+      },
+      {
+        "SrNo": 6,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VYARA",
+        "CENT_NAME": "DAXINAPATH VIVIDHLAXI VIDHYALAYA",
+        "CENTNO": "223006"
+      },
+      {
+        "SrNo": 7,
+        "CENT_STATE": "GUJARAT",
+        "CENT_CITY": "VYARA",
+        "CENT_NAME": "SHREE J B & S A SARVAJANIK HIGH SCHOOL - UNIT 2",
+        "CENTNO": "223007"
+      }
+    ]
+  }

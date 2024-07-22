@@ -1,0 +1,1603 @@
+{
+  "draw": 3,
+  "recordsTotal": null,
+  "recordsFiltered": null,
+  "data": [
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BAGALKOT",
+      "CENT_NAME": "TEJAS INTERNATIONAL COMMERCE AND SCIENCE PU COLLEGE",
+      "CENTNO": "271005"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BAGALKOT",
+      "CENT_NAME": "BASAVESHWAR P U COMMERCE COLLEGE",
+      "CENTNO": "271006"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BAGALKOT",
+      "CENT_NAME": "SHRI KALIDAS EDUCATION SOCIETIES. S B PATIL COMPOSITE P U COLLEGE NAVANAGAR BAGALKOT",
+      "CENTNO": "271007"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BAGALKOT",
+      "CENT_NAME": "TUNGAL SCIENCE PU COLLEGE",
+      "CENTNO": "271008"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BAGALKOT",
+      "CENT_NAME": "B V V SANGHAS BASAVESHWAR ENGINEERING COLLEGE BAGALKOT",
+      "CENTNO": "271001"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BAGALKOT",
+      "CENT_NAME": "BASAVESHWARA INTERNATIONAL PUBLIC SCHOOL",
+      "CENTNO": "271002"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BAGALKOT",
+      "CENT_NAME": "EXCELLENT PUBLIC SCHOOL",
+      "CENTNO": "271003"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BAGALKOT",
+      "CENT_NAME": "BASAVESHWAR SCIENCE COLLEGE BAGALKOT",
+      "CENTNO": "271004"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BALLARI",
+      "CENT_NAME": "BALLARI INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+      "CENTNO": "271101"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BALLARI",
+      "CENT_NAME": "VIGNAAN E TECHNO SCHOOL",
+      "CENTNO": "271102"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BALLARI",
+      "CENT_NAME": "BALA BHARATHI KENDRIYA VIDAYALAYA",
+      "CENTNO": "271103"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BALLARI",
+      "CENT_NAME": "SRI CHAITANYA TECHNO LOWER PRIMARY SCHOOL",
+      "CENTNO": "271104"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BALLARI",
+      "CENT_NAME": "NEW SRI CHAITANYA P U COLLEGE",
+      "CENTNO": "271105"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BALLARI",
+      "CENT_NAME": "TMAES POLYTECHNIC COLLEGE",
+      "CENTNO": "271106"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BALLARI",
+      "CENT_NAME": "KENDRIYA VIDYALAYA BALLARI",
+      "CENTNO": "271107"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BALLARI",
+      "CENT_NAME": "SRI CHAITANYA TECHNO SCHOOL",
+      "CENTNO": "271108"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BALLARI",
+      "CENT_NAME": "DAV PUBLIC SCHOOL",
+      "CENTNO": "271109"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BELAGAVI (BELGAUM)",
+      "CENT_NAME": "C T E SOCIETY`S PUB SCH CHIKODI BELGAUM KK",
+      "CENTNO": "270101"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BELAGAVI (BELGAUM)",
+      "CENT_NAME": "KALPAVRUKSHA MODEL SCH ALANKAR NAGAR BELGAUM KK",
+      "CENTNO": "270102"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BELAGAVI (BELGAUM)",
+      "CENT_NAME": "HIRASUGAR INSTITUTE OF TECHNOLOGY",
+      "CENTNO": "270103"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BELAGAVI (BELGAUM)",
+      "CENT_NAME": "S B DARUR MEM ENG MED SCHOOL RAIBAG BELGAUM KK",
+      "CENTNO": "270104"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BELAGAVI (BELGAUM)",
+      "CENT_NAME": "SADALGA ENGLISH MEDIUM SCHOOL BELGAUM",
+      "CENTNO": "270105"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BELAGAVI (BELGAUM)",
+      "CENT_NAME": "BB HANJI INTERNATIONAL SCHOOL",
+      "CENTNO": "270106"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BELAGAVI (BELGAUM)",
+      "CENT_NAME": "SHIVSHANKAR JOLLE PUBLIC SCHOOL",
+      "CENTNO": "270107"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BELAGAVI (BELGAUM)",
+      "CENT_NAME": "KLS PUBLIC SCHOOL",
+      "CENTNO": "270108"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BELAGAVI (BELGAUM)",
+      "CENT_NAME": "BANAJAWAD ENGLISH MEDIUM PRE-PRIMARY & PRIMARY SCHOOL",
+      "CENTNO": "270109"
+    },
+    {
+      "SrNo": 10,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BELAGAVI (BELGAUM)",
+      "CENT_NAME": "KLE SOCIETYS SCHOOL ANKALI BELGAUM KARNATAKA",
+      "CENTNO": "270110"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- RURAL",
+      "CENT_NAME": "SCHOOL OF INDIA",
+      "CENTNO": "270201"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- RURAL",
+      "CENT_NAME": "VIDYA SANKSAAR INTERNATIONAL PUBLIC SCHOOL",
+      "CENTNO": "270202"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- URBAN",
+      "CENT_NAME": "SESHADRIPURAM FIRST GRADE COLLEGE",
+      "CENTNO": "271201"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- URBAN",
+      "CENT_NAME": "ST BENEDICT''S SCHOOL",
+      "CENTNO": "271202"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- URBAN",
+      "CENT_NAME": "KRUPANIDHI COLLEGE OF PHARMACY",
+      "CENTNO": "271203"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- URBAN",
+      "CENT_NAME": "GARDEN CITY UNIVERSITY(OLD NAME GARDEN CITY COLLEGE)",
+      "CENTNO": "271204"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- URBAN",
+      "CENT_NAME": "DELHI PUBLIC SCHOOL BAGALUR BANGALORE NORTH KK",
+      "CENTNO": "271205"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- URBAN",
+      "CENT_NAME": "ORCHIDS THE INTL SCHOOL KENGERI BANGALORE KK",
+      "CENTNO": "271206"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- URBAN",
+      "CENT_NAME": "ROYAL INTL PUBLIC SCH NELAMANGALA BANGALORE KK",
+      "CENTNO": "271207"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- URBAN",
+      "CENT_NAME": "GLOBAL CITY INTERNATIONAL SCHOOL",
+      "CENTNO": "271208"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- URBAN",
+      "CENT_NAME": "RMS INTERNATIONAL SCHOOL",
+      "CENTNO": "271209"
+    },
+    {
+      "SrNo": 10,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BENGALURU- URBAN",
+      "CENT_NAME": "HARSHA INT PUB SCHOOL NELAMANGLA BANGALORE KK",
+      "CENTNO": "271210"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BIDAR",
+      "CENT_NAME": "CHANNABASAVESHWARA GURUKUL PU COLLEGE",
+      "CENTNO": "271301"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BIDAR",
+      "CENT_NAME": "SHAHEEN PU COLLEGE",
+      "CENTNO": "271302"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BIDAR",
+      "CENT_NAME": "GNYANA SUDHA VIDYALAYA",
+      "CENTNO": "271303"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BIDAR",
+      "CENT_NAME": "KARNATAKA DEGREE COLLEGE",
+      "CENTNO": "271304"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BIDAR",
+      "CENT_NAME": "LINGARAJAPPA COLLEGE OF ENGINEERING, BIDAR",
+      "CENTNO": "271305"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BIDAR",
+      "CENT_NAME": "SHARANBASAVESHWARA PU COLLEGE BIDAR",
+      "CENTNO": "271306"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BIDAR",
+      "CENT_NAME": "GURU NANAK INDEPENDENT PU COLLEGE",
+      "CENTNO": "271307"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BIDAR",
+      "CENT_NAME": "KARNATAKA PU COLLEGE",
+      "CENTNO": "271308"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BIDAR",
+      "CENT_NAME": "HOLY SHEPHERED SCHOOL",
+      "CENTNO": "271309"
+    },
+    {
+      "SrNo": 10,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "BIDAR",
+      "CENT_NAME": "GURU NANAK PUBLIC SCHOOL",
+      "CENTNO": "271310"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHAMARAJNAGAR",
+      "CENT_NAME": "JSS PU COLLEGE, CHAMARAJANAGARA",
+      "CENTNO": "271401"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHAMARAJNAGAR",
+      "CENT_NAME": "KV CHAMARAJANAGAR",
+      "CENTNO": "271402"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHAMARAJNAGAR",
+      "CENT_NAME": "SEVABHARATHI PU COLLEGE, CHAMARAJANAGARA",
+      "CENTNO": "271403"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHIKABALLAPUR",
+      "CENT_NAME": "S J C INSTITUTE OF TECHNOLOGY",
+      "CENTNO": "271501"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHIKABALLAPUR",
+      "CENT_NAME": "THE NATIONAL P U COLLAGE",
+      "CENTNO": "271502"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHIKABALLAPUR",
+      "CENT_NAME": "BGS SCIENCE ACADEMY COLLEGE",
+      "CENTNO": "271503"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHIKABALLAPUR",
+      "CENT_NAME": "SBGNS RURAL COMP. PU COLLEGE",
+      "CENTNO": "271504"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHIKABALLAPUR",
+      "CENT_NAME": "BGS PUBLIC SCHOOL",
+      "CENTNO": "271505"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHIKABALLAPUR",
+      "CENT_NAME": "VIKAS COLLEGE",
+      "CENTNO": "271506"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHIKABALLAPUR",
+      "CENT_NAME": "SBGN RURAL ENGLISH SCHOOL",
+      "CENTNO": "271507"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHIKABALLAPUR",
+      "CENT_NAME": "BHAIRAVESHWARA VIDYA SAMSTHE",
+      "CENTNO": "271508"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHIKMAGALUR",
+      "CENT_NAME": "SRI SAI ANGLES SCHOOL",
+      "CENTNO": "271601"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHIKMAGALUR",
+      "CENT_NAME": "GOVT. PU COLLEGE BELUR ROAD",
+      "CENTNO": "271602"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHITRADURGA",
+      "CENT_NAME": "INDIAN INTERNATIONAL SCHOOL",
+      "CENTNO": "271701"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHITRADURGA",
+      "CENT_NAME": "BAPUJI INTEGRATED HIGH SCHOOL",
+      "CENTNO": "271702"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHITRADURGA",
+      "CENT_NAME": "SRS PU COLLEGE",
+      "CENTNO": "271703"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHITRADURGA",
+      "CENT_NAME": "SJM RESIDENTIAL SCHOOL",
+      "CENTNO": "271704"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "CHITRADURGA",
+      "CENT_NAME": "SJM ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "271705"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DAVANGERE",
+      "CENT_NAME": "ATHANI COMPOSITE PU COLLEGE",
+      "CENTNO": "270305"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DAVANGERE",
+      "CENT_NAME": "ST. PAULS P U COLLEGE",
+      "CENTNO": "270306"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DAVANGERE",
+      "CENT_NAME": "BAPUJI INSTITUTE OF HIGH TECH EDUCATION",
+      "CENTNO": "270307"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DAVANGERE",
+      "CENT_NAME": "JAIN VIDYALAYA CITY SCHOOL",
+      "CENTNO": "270308"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DAVANGERE",
+      "CENT_NAME": "ST.JOHN`S ENG MED SCH DAVANGERE KARNATAKA",
+      "CENTNO": "270309"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DAVANGERE",
+      "CENT_NAME": "M.E.S.P.U COLLEGE",
+      "CENTNO": "270310"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DAVANGERE",
+      "CENT_NAME": "SRI SAI GURUKULA RES SCHOOL HONNALI DAVANGERE KK",
+      "CENTNO": "270311"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DAVANGERE",
+      "CENT_NAME": "SRI SIDDAGANGA PU COLLEGE",
+      "CENTNO": "270312"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DAVANGERE",
+      "CENT_NAME": "VISHWACHETANA VIDYANIKETANA",
+      "CENTNO": "270313"
+    },
+    {
+      "SrNo": 10,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DAVANGERE",
+      "CENT_NAME": "JAIN INSTITUTE OF TECHNOLOGY DAVANAGERE",
+      "CENTNO": "270314"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DHARWAD",
+      "CENT_NAME": "ANJUMAN ARTS SCIENCE COMMERCE COLLEGE & P G STUDIES DHARWAD",
+      "CENTNO": "270401"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DHARWAD",
+      "CENT_NAME": "S D M COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "CENTNO": "270402"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DHARWAD",
+      "CENT_NAME": "J S S RS HUKKERIKAR PU COLLEGE",
+      "CENTNO": "270403"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DHARWAD",
+      "CENT_NAME": "RASHTROTTHANA VIDYA KENDRA RES SCHOOL DHARWAD KK",
+      "CENTNO": "270404"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DHARWAD",
+      "CENT_NAME": "UNIVERSITY OF AGRICULTURAL SCIENCES",
+      "CENTNO": "270405"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DHARWAD",
+      "CENT_NAME": "KENDRIYA VIDYALAYA DHARWAD",
+      "CENTNO": "270406"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DHARWAD",
+      "CENT_NAME": "JSS KANNADA MEDIUM PRIMARY/HIGH SCHOOL",
+      "CENTNO": "270407"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DHARWAD",
+      "CENT_NAME": "K E BOARDS ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "270408"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "DHARWAD",
+      "CENT_NAME": "SHRI MANJUNATHESHWARA CENTRAL SCHOOL",
+      "CENTNO": "270409"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GADAG",
+      "CENT_NAME": "ST JOHNS HIGH SCHOOL",
+      "CENTNO": "271801"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GADAG",
+      "CENT_NAME": "G D SHAH ENGLISH MEDIUM HIGH SCHOOL",
+      "CENTNO": "271802"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GADAG",
+      "CENT_NAME": "SHRI MAHAVEER JAIN EDUCATION SOCIETY, SHRI PARSHWANATH ENGLISH MEDIUM SCHOOL.",
+      "CENTNO": "271803"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GADAG",
+      "CENT_NAME": "ASS SHRI D S KURTKOTI MEMORIAL P U COLLEGE",
+      "CENTNO": "271804"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GADAG",
+      "CENT_NAME": "BALA VINAYAKA VIDYANIKETAN",
+      "CENTNO": "271805"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GADAG",
+      "CENT_NAME": "STSKK''S POLYTECHNIC, GADAG",
+      "CENTNO": "271806"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GADAG",
+      "CENT_NAME": "K L E SOCIETYS SCHOOL",
+      "CENTNO": "271807"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GULBARGA/KALABURGI",
+      "CENT_NAME": "GODUTAI COLLEGE OF ENGINEERING FOR WOMEN, KALABURAGI (GULBARGA)",
+      "CENTNO": "270501"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GULBARGA/KALABURGI",
+      "CENT_NAME": "SHARNBASVESHWAR RESI. COMP. PU COLLEGE, GULBARGA/KALABURAGI",
+      "CENTNO": "270502"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GULBARGA/KALABURGI",
+      "CENT_NAME": "GOVERNMENT COLLEGE SEDAM ROAD, KALABURAGI (GULBARGA)",
+      "CENTNO": "270503"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GULBARGA/KALABURGI",
+      "CENT_NAME": "SPARKLES INTERNATIONAL SCHOOL, KALABURAGI (GULBARGA)",
+      "CENTNO": "270504"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GULBARGA/KALABURGI",
+      "CENT_NAME": "PDA COLLEGE OF ENGINEERING, KALABURAGI (GULBARGA)",
+      "CENTNO": "270505"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GULBARGA/KALABURGI",
+      "CENT_NAME": "SMT VEERAMMA GANGASHREE WOMENS COLLEGE, KALABURAGI(GULBARGA)",
+      "CENTNO": "270506"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GULBARGA/KALABURGI",
+      "CENT_NAME": "S. R. N. MEHTA SCHOOL, KALABURAGI (GULBARGA)",
+      "CENTNO": "270507"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GULBARGA/KALABURGI",
+      "CENT_NAME": "GURUKUL INDEPENDENT PU COLLEGE, KALABURAGI (GULBARGA)",
+      "CENTNO": "270508"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GULBARGA/KALABURGI",
+      "CENT_NAME": "ST. XAVIER''S PU COLLEGE, SIRNOOR KALABURAGI (GULBARGA)",
+      "CENTNO": "270509"
+    },
+    {
+      "SrNo": 10,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "GULBARGA/KALABURGI",
+      "CENT_NAME": "CHANDRAKANT PATIL ENGLISH MEDIUM SCHOOL, KALABURAGI (GULBARGA)",
+      "CENTNO": "270510"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HASSAN",
+      "CENT_NAME": "JNANASAGARA INTERNATIONAL PUBLIC SCHOOL",
+      "CENTNO": "271901"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HASSAN",
+      "CENT_NAME": "A V K PU COLLEGE",
+      "CENTNO": "271902"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HASSAN",
+      "CENT_NAME": "A V K COLLEGE FOR WOMEN",
+      "CENTNO": "271903"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HASSAN",
+      "CENT_NAME": "HKS INTERNATIONAL SCHOOL",
+      "CENTNO": "271904"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HASSAN",
+      "CENT_NAME": "CHRIST SCHOOL",
+      "CENTNO": "271905"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HASSAN",
+      "CENT_NAME": "NETHAJI PUBLIC SCHOOL",
+      "CENTNO": "271906"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HASSAN",
+      "CENT_NAME": "KENDRIYA VIDYALAYA",
+      "CENTNO": "271907"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HASSAN",
+      "CENT_NAME": "HASSAN PUBLIC SCHOOL",
+      "CENTNO": "271908"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HASSAN",
+      "CENT_NAME": "POORNACHANDRA PUBLIC SCHOOL",
+      "CENTNO": "271909"
+    },
+    {
+      "SrNo": 10,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HASSAN",
+      "CENT_NAME": "VIDYA SOUDHA PUBLIC SCHOOL",
+      "CENTNO": "271910"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HAVERI",
+      "CENT_NAME": "K L E SOCIETYS GUDLEPPA HALLIKERI COLLEGE",
+      "CENTNO": "272001"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HAVERI",
+      "CENT_NAME": "K L E SOCIETYS C B KOLLI POLYTECNIC",
+      "CENTNO": "272002"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HAVERI",
+      "CENT_NAME": "LIONS ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "272003"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HAVERI",
+      "CENT_NAME": "BASAVESWAR B ED COLLEGE",
+      "CENTNO": "272004"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HAVERI",
+      "CENT_NAME": "ST ANNES HIGH SCHOOL",
+      "CENTNO": "272005"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HAVERI",
+      "CENT_NAME": "J P ROTARY HIGH SCHOOL HAVERI",
+      "CENTNO": "272006"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HAVERI",
+      "CENT_NAME": "T M A E COLLEGE",
+      "CENTNO": "272007"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HAVERI",
+      "CENT_NAME": "K L E SOCIETYS ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "272008"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HUBLI",
+      "CENT_NAME": "JAIN COLLEGE OF ENGINEERING TECHNOLOGY",
+      "CENTNO": "270601"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HUBLI",
+      "CENT_NAME": "AGM RURAL COLLEGE OF ENGINEERING & TECHNOLOGY",
+      "CENTNO": "270602"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HUBLI",
+      "CENT_NAME": "BENAKA SCHOOL",
+      "CENTNO": "270603"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HUBLI",
+      "CENT_NAME": "K L E IT",
+      "CENTNO": "270604"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HUBLI",
+      "CENT_NAME": "ST ANTONYS PUBLIC SCHOOL",
+      "CENTNO": "270605"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HUBLI",
+      "CENT_NAME": "KANAKDAS SHIKSHAN SAMITHIS VIJAYNAGAR PRE-UNIVERSITY COLLEGE",
+      "CENTNO": "270606"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HUBLI",
+      "CENT_NAME": "KLES P C JABIN PU COLLEGE OF SCIENCE",
+      "CENTNO": "270607"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "HUBLI",
+      "CENT_NAME": "S R BOMMAI ROTARY PUBLIC SCHOOL",
+      "CENTNO": "270608"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KARWAR",
+      "CENT_NAME": "AMRITA VIDYALAYAM",
+      "CENTNO": "272101"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KODAGU",
+      "CENT_NAME": "SMS ACADEMY OF CENTRAL EDUCATION",
+      "CENTNO": "272201"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOLAR",
+      "CENT_NAME": "DR. T.THIMMAIAH INSTITUTE OF TECHNOLOGY",
+      "CENTNO": "272301"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOLAR",
+      "CENT_NAME": "SRI BHAGAWAN MAHAVEER JAIN IND. P U COLLEGE,",
+      "CENTNO": "272302"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOLAR",
+      "CENT_NAME": "BGS PU COLLEGE",
+      "CENTNO": "272303"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOLAR",
+      "CENT_NAME": "GOVERNMENT FIRST GRADE COLLEGE MALUR",
+      "CENTNO": "272304"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOLAR",
+      "CENT_NAME": "JAIN GLOBAL SCHOOL",
+      "CENTNO": "272305"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOLAR",
+      "CENT_NAME": "JSS PU COLLEGE",
+      "CENTNO": "272306"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOLAR",
+      "CENT_NAME": "THE JAIN INTERNATIONAL SCHOOL MULBAGAL",
+      "CENTNO": "272307"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOLAR",
+      "CENT_NAME": "JSS PUBLIC SCHOOL",
+      "CENTNO": "272308"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOLAR",
+      "CENT_NAME": "KENDRIYA VIDYALAYA BEML NAGAR",
+      "CENTNO": "272309"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOPPAL",
+      "CENT_NAME": "NAVACHETAN PU COLLEGE",
+      "CENTNO": "272401"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOPPAL",
+      "CENT_NAME": "LIONS SWAMY VIVEKANANDA ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "272402"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOPPAL",
+      "CENT_NAME": "MILLENNIUM PUBLIC SCHOOL",
+      "CENTNO": "272403"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOPPAL",
+      "CENT_NAME": "SFS ICSE SCHOOL",
+      "CENTNO": "272404"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOPPAL",
+      "CENT_NAME": "JNANA BANDHU SCHOOL",
+      "CENTNO": "272405"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOPPAL",
+      "CENT_NAME": "KENDRIYA VIDYALAYA",
+      "CENTNO": "272406"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOPPAL",
+      "CENT_NAME": "NATIONAL ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "272407"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOPPAL",
+      "CENT_NAME": "NIVEDITA ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "272408"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOPPAL",
+      "CENT_NAME": "SHREE SHARADAMBA ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "272409"
+    },
+    {
+      "SrNo": 10,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "KOPPAL",
+      "CENT_NAME": "SHREE GAVISIDDESHWARA BED COLLEGE",
+      "CENTNO": "272410"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANDYA",
+      "CENT_NAME": "B G S PU COLLEGE",
+      "CENTNO": "272501"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANDYA",
+      "CENT_NAME": "S E T PUBLIC SCHOOL",
+      "CENTNO": "272502"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANDYA",
+      "CENT_NAME": "SCHOOL OF INDIA",
+      "CENTNO": "272503"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANDYA",
+      "CENT_NAME": "GAYATHRI VIDYALAYA",
+      "CENTNO": "272504"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANDYA",
+      "CENT_NAME": "VIJAYA HIGHER PRIMARY SCHOOL",
+      "CENTNO": "272505"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANGALURU (MANGALORE)",
+      "CENT_NAME": "MOUNT CARMEL CENTRAL SCHOOL",
+      "CENTNO": "270701"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANGALURU (MANGALORE)",
+      "CENT_NAME": "SAHYADRI COLLEGE OF ENGINEERING & MANAGEMENT",
+      "CENTNO": "270702"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANGALURU (MANGALORE)",
+      "CENT_NAME": "CANARA ENGINEERING COLLEGE",
+      "CENTNO": "270703"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANGALURU (MANGALORE)",
+      "CENT_NAME": "BEASANT WOMENS COLLEGE",
+      "CENTNO": "270704"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANGALURU (MANGALORE)",
+      "CENT_NAME": "THE YENOPAYA SCHOOL",
+      "CENTNO": "270705"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANGALURU (MANGALORE)",
+      "CENT_NAME": "KANACHUR PUBLIC SCHOOL DERALAKATTE MANGALORE KK",
+      "CENTNO": "270706"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANGALURU (MANGALORE)",
+      "CENT_NAME": "ALVAS INSTITUTE OF ENGINEERING & TECHNOLOGY MOODBIDRI",
+      "CENTNO": "270707"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANGALURU (MANGALORE)",
+      "CENT_NAME": "SRINIVAS INSTITUTE OF TECHNOLOGY",
+      "CENTNO": "270708"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANGALURU (MANGALORE)",
+      "CENT_NAME": "CANARA PRE UNIVERSITY COLLEGE",
+      "CENTNO": "270709"
+    },
+    {
+      "SrNo": 10,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MANGALURU (MANGALORE)",
+      "CENT_NAME": "GOVINDA DASA COLLEGE",
+      "CENTNO": "270710"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MYSURU (MYSORE)",
+      "CENT_NAME": "CHRIST SCHOOL THADAVAPURA NANJANGUD MYSORE KK",
+      "CENTNO": "270801"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MYSURU (MYSORE)",
+      "CENT_NAME": "EXCEL PUBLIC SCHOOL",
+      "CENTNO": "270802"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MYSURU (MYSORE)",
+      "CENT_NAME": "MYSORE MAKKALA KOOTA AND SRI DHARMASTHALA MANJUNATHESWARA COLLEGE FOR WOMEN",
+      "CENTNO": "270803"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MYSURU (MYSORE)",
+      "CENT_NAME": "ST JOSEPH`S SCHOOL JAYALAKSHIMIPURAM MYSORE KK",
+      "CENTNO": "270804"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MYSURU (MYSORE)",
+      "CENT_NAME": "MAHAJANA PUBLIC SCHOOL",
+      "CENTNO": "270805"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MYSURU (MYSORE)",
+      "CENT_NAME": "MAHARSHI PUBLIC SCHOOL",
+      "CENTNO": "270806"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MYSURU (MYSORE)",
+      "CENT_NAME": "ST.ARNOLD''S CENTRAL SCHOOL",
+      "CENTNO": "270807"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MYSURU (MYSORE)",
+      "CENT_NAME": "POLICE PUBLIC SCHOOL",
+      "CENTNO": "270808"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MYSURU (MYSORE)",
+      "CENT_NAME": "SADVIDYA COMPOSITE P U COLLEGE",
+      "CENTNO": "270809"
+    },
+    {
+      "SrNo": 10,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "MYSURU (MYSORE)",
+      "CENT_NAME": "ST.THOMAS ENG MED SCH VISHWESHWARA NGR MYSORE KK",
+      "CENTNO": "270810"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "RAICHUR",
+      "CENT_NAME": "RACE CONCEPT SCHOOL",
+      "CENTNO": "272601"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "RAICHUR",
+      "CENT_NAME": "NAVODAYA CENTRAL SCHOOL CBSE",
+      "CENTNO": "272602"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "RAICHUR",
+      "CENT_NAME": "DUDDUPUDI ENGLISH MEDIUM HIGH SCHOOL",
+      "CENTNO": "272603"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "RAICHUR",
+      "CENT_NAME": "POORNIMA INTERNATIONAL SCHOOL RAICHUR",
+      "CENTNO": "272604"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "RAICHUR",
+      "CENT_NAME": "VIDYABHARATHI ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "272605"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "RAICHUR",
+      "CENT_NAME": "BALAYESU SCHOOL",
+      "CENTNO": "272606"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "RAICHUR",
+      "CENT_NAME": "S R SUKHANI",
+      "CENTNO": "272607"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "RAICHUR",
+      "CENT_NAME": "SMT PAYRIBAI SAMPATH RAJ KOTHARI",
+      "CENTNO": "272608"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "RAICHUR",
+      "CENT_NAME": "MONTESSORI PUBLIC SCHOOL CBSE SINDHANUR",
+      "CENTNO": "272609"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "RAMANAGARA",
+      "CENT_NAME": "SHANTHINIKETAN PUBLIC SCHOOL",
+      "CENTNO": "272701"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "SHIVAMOGA (SHIMOGA)",
+      "CENT_NAME": "JAWAHARLAL NEHRU NEW COLLEGE OF ENGINEERING",
+      "CENTNO": "272801"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "SHIVAMOGA (SHIMOGA)",
+      "CENT_NAME": "JNANADEEPA SENIOR SECONDARY SCHOOL",
+      "CENTNO": "272802"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "SHIVAMOGA (SHIMOGA)",
+      "CENT_NAME": "PACE P U COLLEGE",
+      "CENTNO": "272803"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "SHIVAMOGA (SHIMOGA)",
+      "CENT_NAME": "NATIONAL PUBLIC SCHOOL",
+      "CENTNO": "272804"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "SHIVAMOGA (SHIMOGA)",
+      "CENT_NAME": "SRI ADICHUNCHANAGIRI INDEPENDENT P U COLLEGE",
+      "CENTNO": "272805"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "SHIVAMOGA (SHIMOGA)",
+      "CENT_NAME": "BGS CENTRAL SCHOOL",
+      "CENTNO": "272806"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "SHIVAMOGA (SHIMOGA)",
+      "CENT_NAME": "KASTURBA GIRLS PU COLLEGE",
+      "CENTNO": "272807"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "SHIVAMOGA (SHIMOGA)",
+      "CENT_NAME": "SRI SATYA SAI JNANA PEETHA",
+      "CENTNO": "272808"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "SHIVAMOGA (SHIMOGA)",
+      "CENT_NAME": "ST. JOSEPHS SCHOOL BHADRAVATHI",
+      "CENTNO": "272809"
+    },
+    {
+      "SrNo": 10,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "SHIVAMOGA (SHIMOGA)",
+      "CENT_NAME": "PES PUBLIC SCHOOL",
+      "CENTNO": "272810"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "TUMAKURU",
+      "CENT_NAME": "SHRIDEVI INSTITUTE OF ENGINEERING AND TECHNOLOGY TUMKUR",
+      "CENTNO": "272901"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "TUMAKURU",
+      "CENT_NAME": "SRI SIDDHARTHA INSTITUTE OF TECHNOLOGY",
+      "CENTNO": "272902"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "TUMAKURU",
+      "CENT_NAME": "CHANNABASVESHWARA INSTITUTE OF TECHNOLOGY",
+      "CENTNO": "272903"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "TUMAKURU",
+      "CENT_NAME": "PRUDENCE INTERNATIONAL RESIDENTIAL SCHOOL",
+      "CENTNO": "272904"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "TUMAKURU",
+      "CENT_NAME": "MARUTHI VIDYA KENDRA",
+      "CENTNO": "272905"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "TUMAKURU",
+      "CENT_NAME": "SHREE BASAVESHWARA PRIMARY SCHOOL (PRIVATE SCHOOL)",
+      "CENTNO": "272906"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "TUMAKURU",
+      "CENT_NAME": "SRI SIDDHARTHA FIRST GRADE COLLEGE",
+      "CENTNO": "272907"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "TUMAKURU",
+      "CENT_NAME": "MARUTHI PUBLIC SCHOOL",
+      "CENTNO": "272908"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "TUMKUR",
+      "CENT_NAME": "SRI RAJARAJESHWARI PUBLIC SCHOOL",
+      "CENTNO": "272909"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "UDUPI/MANIPAL",
+      "CENT_NAME": "G M VIDYANIKETAN PUBLIC SCHOOL",
+      "CENTNO": "270901"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "UDUPI/MANIPAL",
+      "CENT_NAME": "NMAM INSTITUTE OF TECHNOLOGY NITTE",
+      "CENTNO": "270902"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "UDUPI/MANIPAL",
+      "CENT_NAME": "SRI SIDDHIVINAYAKA RESIDENTIAL SCHOOL",
+      "CENTNO": "270903"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "UDUPI/MANIPAL",
+      "CENT_NAME": "DON BOSCO ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "270904"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "UDUPI/MANIPAL",
+      "CENT_NAME": "LITTLE ROCK INDIAN SCHOOL",
+      "CENTNO": "270905"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "UDUPI/MANIPAL",
+      "CENT_NAME": "MADHAVA KRIPA ENGLISG NURSERY AND HIGHER PRIMARY SCHOOL",
+      "CENTNO": "270906"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "UDUPI/MANIPAL",
+      "CENT_NAME": "S M S ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "270907"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "UDUPI/MANIPAL",
+      "CENT_NAME": "VIDYODAYA PU COLLEGE",
+      "CENTNO": "270908"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "UDUPI/MANIPAL",
+      "CENT_NAME": "DON BOSCO PRIMARY SCHOOL TRASI HOSADU UDUPI KK",
+      "CENTNO": "270909"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "VIJAYAPURA",
+      "CENT_NAME": "B.L.D.E A?S  VACHANA PITAMAHA DR. P.G. HALAKATTI  COLLEGE OF ENGINEERING & TECHNOLOGY",
+      "CENTNO": "273001"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "VIJAYAPURA",
+      "CENT_NAME": "SANGANABASAVA SHISHINIKETAN SCHOOL",
+      "CENTNO": "273002"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "VIJAYAPURA",
+      "CENT_NAME": "SHARADA PUBLIC SCHOOL",
+      "CENTNO": "273003"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "VIJAYAPURA",
+      "CENT_NAME": "SHANTINIKETAN INTERNATIONAL SCHOOL",
+      "CENTNO": "273004"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "VIJAYAPURA",
+      "CENT_NAME": "PDJ PRE UNIVERSITY COLLEGE",
+      "CENTNO": "273005"
+    },
+    {
+      "SrNo": 6,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "VIJAYAPURA",
+      "CENT_NAME": "SECAB MALIK SANDAL POLYTECHNIC COLLEGE",
+      "CENTNO": "273006"
+    },
+    {
+      "SrNo": 7,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "VIJAYAPURA",
+      "CENT_NAME": "ROOPA INTERNATIONAL ENG MED SCHOOL",
+      "CENTNO": "273007"
+    },
+    {
+      "SrNo": 8,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "VIJAYAPURA",
+      "CENT_NAME": "SHARANABASAVESHWAR P U COLLEGE",
+      "CENTNO": "273008"
+    },
+    {
+      "SrNo": 9,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "VIJAYAPURA",
+      "CENT_NAME": "SRI. B. M. PATIL PUBLIC SCHOOL",
+      "CENTNO": "273009"
+    },
+    {
+      "SrNo": 10,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "VIJAYAPURA",
+      "CENT_NAME": "BLDEA''S A S PATIL COLLEGE OF COMMERCE",
+      "CENTNO": "273010"
+    },
+    {
+      "SrNo": 1,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "YADGIR",
+      "CENT_NAME": "ARYABHATTA INTERNATIONAL ACADEMY",
+      "CENTNO": "273101"
+    },
+    {
+      "SrNo": 2,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "YADGIR",
+      "CENT_NAME": "SAI VIDYANIKETAN RESIDENTIAL SCHOOL",
+      "CENTNO": "273102"
+    },
+    {
+      "SrNo": 3,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "YADGIR",
+      "CENT_NAME": "DON BOSCO PU COLLEGE, YADGIR",
+      "CENTNO": "273103"
+    },
+    {
+      "SrNo": 4,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "YADGIR",
+      "CENT_NAME": "SHA MAGANLAL CHAMNAJI JAIN SCHOOL, SHAHAPUR",
+      "CENTNO": "273104"
+    },
+    {
+      "SrNo": 5,
+      "CENT_STATE": "KARNATAKA",
+      "CENT_CITY": "YADGIR",
+      "CENT_NAME": "BHORUKA ENGLISH MEDIUM SCHOOL",
+      "CENTNO": "273105"
+    }
+  ]
+}
